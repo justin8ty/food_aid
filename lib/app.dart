@@ -1,5 +1,7 @@
+// lib/app.dart
 import 'package:flutter/material.dart';
 import 'screens/map_screen.dart';
+import 'widgets/receiver_form.dart';
 
 void main() {
   runApp(const RestaurantRadarApp());
@@ -28,7 +30,7 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   bool _isPopupVisible = true;
 
-  // Function to display the popup dialog
+  // Function to display the role selection popup
   Future<void> _showRoleSelectionPopup() async {
     return showDialog<void>(
       context: context,
@@ -62,10 +64,14 @@ class _HomeScreenState extends State<HomeScreen> {
                 ElevatedButton(
                   onPressed: () {
                     setState(() {
-                      _isPopupVisible = false; // Close popup
+                      _isPopupVisible = false; // Close the popup
                     });
                     Navigator.of(context).pop(); // Close the dialog
-                    // Handle selection of Receiver
+                    // Show the Receiver form
+                    showDialog(
+                      context: context,
+                      builder: (context) => const ReceiverForm(),
+                    );
                   },
                   child: Text('Receiver'),
                 ),
