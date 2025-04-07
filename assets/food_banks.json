@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Hope Community Kitchen",
+      "details": {
+        "address": "123 Charity St, Kuala Lumpur, Malaysia",
+        "url": "https://hopekitchen.org"
+      }
+    },
+    {
+      "name": "Food Aid Malaysia",
+      "details": {
+        "address": "456 Relief Ave, Petaling Jaya, Malaysia",
+        "url": "https://foodaid.my"
+      }
+    },
+    {
+      "name": "Unity Food Bank",
+      "details": {
+        "address": "789 Kindness Blvd, Subang Jaya, Malaysia",
+        "url": "https://unitybank.org"
+      }
+    }
+  ]
+  
