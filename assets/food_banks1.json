@@ -1,0 +1,5234 @@
+{
+    "Penang": [
+      {
+        "name": "Meowky House, Georgetown, Penang",
+        "details": {
+          "address": "101, Lorong Macalister, 10400 George Town, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.4167391,100.328564"
+        }
+      },
+      {
+        "name": "MamaVege, Bukit Mertajam, Penang",
+        "details": {
+          "address": "38, Jalan Bayu Mutiara 1, Bayu Mutiara, 14000 Bukit Mertajam, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.344820899999999,100.4358818"
+        }
+      },
+      {
+        "name": "Ezy’s Coconut Beverages, Gelugor, Penang",
+        "details": {
+          "address": "2-1-27, Plaza Ivory, Halaman Bukit Gambir, Sunway Bukit Gambier, 11700 Gelugor, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.3689351,100.3098249"
+        }
+      },
+      {
+        "name": "Restoran Dapoq Mimi, Bayan Lepas, Penang",
+        "details": {
+          "address": "10-2, Lebuh Nipah 6, Bayan Lepas, 11950 Bayan Lepas, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.337076499999999,100.2927964"
+        }
+      },
+      {
+        "name": "Area Penang",
+        "details": {
+          "address": "George Town, Penang",
+          "url": "https://www.google.com/maps/dir//5.414130699999999,100.3287506"
+        }
+      },
+      {
+        "name": "Pangsa Sri Bagan, Butterworth, Penang",
+        "details": {
+          "address": "Pangsa Sri Bagan, Kampung Bagan Dalam, 12100 Butterworth, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.392643500000001,100.3713265"
+        }
+      },
+      {
+        "name": "Shunka Burma Road, Georgetown, Penang",
+        "details": {
+          "address": "124-E, Jalan Burma, George Town, 10050 George Town, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.420875,100.325446"
+        }
+      },
+      {
+        "name": "Batu Lancang Market Food Court, Jelutong, Penang",
+        "details": {
+          "address": "25, Lintang Batu Lancang, Jelutong, 11600 Jelutong, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.389698299999999,100.3061146"
+        }
+      },
+      {
+        "name": "Arati Vilas Restaurant, Tanjung Bungah, Penang",
+        "details": {
+          "address": "9, Tanjung Bunga Park, 11200 Tanjung Bungah, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.462675,100.301896"
+        }
+      },
+      {
+        "name": "Butterworth Lay Buddhist Society, Butterworth, Penang",
+        "details": {
+          "address": "TBP 6334, Kampung Baru, Sungai Puyu,, Sungai Puyu,, Kampung Pokok Keras, 13400 Butterworth, Penang",
+          "url": "https://www.google.com/maps/dir//5.4384826,100.3906641"
+        }
+      },
+      {
+        "name": "Cathedral of the Holy Spirit, Georgetown, Penang",
+        "details": {
+          "address": "1, Tingkat Besi 1, Taman Guan Joo Seng, 11600 George Town, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.3937587,100.3017097"
+        }
+      },
+      {
+        "name": "City Parish Catholic Church, Georgetown, Penang",
+        "details": {
+          "address": "10400 George Town, Penang",
+          "url": "https://www.google.com/maps/dir//5.414403000000001,100.3271281"
+        }
+      },
+      {
+        "name": "Cili Panda 便当食堂, Georgetown, Penang",
+        "details": {
+          "address": "2, Gat Lebuh Chulia, George Town, 10300 George Town, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.410248699999999,100.3305358"
+        }
+      },
+      {
+        "name": "Pantai Hospital, Bayan Lepas, Penang",
+        "details": {
+          "address": "82, Jalan Tengah, Bayan Baru, 11900 Bayan Lepas, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.3206776,100.2823854"
+        }
+      },
+      {
+        "name": "Blessing Box Tanjung Bungah Market & Food Complex, Tanjung Bungah, Penang",
+        "details": {
+          "address": "Jalan Sungai Kelian, Tanjung Tokong, 11200 Tanjung Bungah, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.4634919,100.284779"
+        }
+      },
+      {
+        "name": "Gerobok Rezeki @ SMK Seri Bayu, Bayan Lepas, Penang",
+        "details": {
+          "address": "Jalan Kampung Masjid, 11920 Bayan Lepas, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.2903189,100.222709"
+        }
+      },
+      {
+        "name": "Pusat Khidmat Ahli Parlimen Bukit Mertajam, Penang",
+        "details": {
+          "address": "11, 12 & 12A, PRECINT 1 @ SUNWAY WELLESLEY, JALAN MUTHU PALANIAPAN, 14000 Bukit Mertajam, Penang",
+          "url": "https://www.google.com/maps/dir//5.368318799999999,100.4573707"
+        }
+      },
+      {
+        "name": "PETRONAS - Bertam Perdana, Kepala Batas, Penang",
+        "details": {
+          "address": "Lot 2081 & 6163, Persiaran Bertam Perdana, 13200 Kepala Batas, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.517404299999999,100.4496768"
+        }
+      },
+      {
+        "name": "Petronas BKE (Butterworth Bound), Seberang Perai, Penang",
+        "details": {
+          "address": "MY Pulau Pinang, LotNo 3167, Lebuhraya Butterworth - Kulim, 13700 Seberang Jaya, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.3980334,100.4109656"
+        }
+      },
+      {
+        "name": "Petronas Bandar Tasek Mutiara, Simpang Ampat, Penang",
+        "details": {
+          "address": "Petronas Bandar Tasek Mutiara, Bandar Tasek Mutiara, 14120 Simpang Ampat, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.2843617,100.4930125"
+        }
+      },
+      {
+        "name": "Lokalhouz, Butterworth, Penang",
+        "details": {
+          "address": "5, Jalan Pasar, Bagan Luar, 12000 Butterworth, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.410935400000001,100.370697"
+        }
+      },
+      {
+        "name": "Pusat Khidmat DAP, Ahli Parlimen Bagan, Butterworth, Penang",
+        "details": {
+          "address": "No. 6779, Tingkat Bawah, Jalan Kampung Gajah, Kampung Gajah, 12200 Butterworth, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.4199533,100.3746118"
+        }
+      },
+      {
+        "name": "Sky Home Condominium, Tanjung Bungah, Penang",
+        "details": {
+          "address": "Sky Home Condominium, 552, Jalan Tanjung Bungah, Tanjung Tokong, 11200 Tanjung Bungah, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.4634223,100.3037062"
+        }
+      },
+      {
+        "name": "Sam's Groceria, Tanjung Tokong, Penang",
+        "details": {
+          "address": "Unit No.3G-G-5 To 8 & 3G-G-12 To 13A Block G, Straits Quay, Jalan Seri Tanjung Pinang, Seri Tanjung Pinang, 10470 Tanjong Tokong, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.4580775,100.3128472"
+        }
+      },
+      {
+        "name": "Koocing Cat Hotel & Cat Grooming, Tanjong Tokong, Penang",
+        "details": {
+          "address": "2C, Jalan Halia Mount Erskine Tanjung Tokong, Tanjung Tokong, 10470 George Town, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.451363,100.3018417"
+        }
+      },
+      {
+        "name": "Pharmacy Medilife, Bayan Lepas, Penang",
+        "details": {
+          "address": "No 3, R-01-12A, Setia Triangle, Persiaran Kelicap, 11900 Bayan Lepas, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.302165899999999,100.2602339"
+        }
+      },
+      {
+        "name": "Ruas Records Store, George Town, Penang",
+        "details": {
+          "address": "20, Jalan Pintal Tali, George Town, 10100 George Town, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.410732499999999,100.3296949"
+        }
+      },
+      {
+        "name": "Abah And Sons, Kepala Batas, Penang",
+        "details": {
+          "address": "6518, Jalan Dua, 13100 Kepala Batas, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.508595000000001,100.4376287"
+        }
+      },
+      {
+        "name": "Area Timur Laut Penang",
+        "details": {
+          "address": "North-East Penang Island District, Penang",
+          "url": "https://www.google.com/maps/dir//5.4142071,100.328495"
+        }
+      },
+      {
+        "name": "Lean Ee Lee Trading, Bukit Mertajam, Penang",
+        "details": {
+          "address": "81, Jalan Tembikai, Taman Mutiara, 14000 Bukit Mertajam, Pulau Pinang",
+          "url": "https://www.google.com/maps/dir//5.361171,100.444819"
+        }
+      },
+      {
+        "name": "Weely Electrical Sales & Service, Simpang Ampat, Penang",
+        "details": {
+          "address": "11A-15, 17, Jalan Keruing, Kawasan Perniagaan Simpang Ampat, 14100 Simpang Ampat, Penang",
+          "url": "https://www.google.com/maps/dir//5.278004699999999,100.4772784"
+        }
+      }
+    ],
+    "Tebal": [
+      {
+        "name": "Area Nibong Tebal",
+        "details": {
+          "address": "Nibong Tebal, Penang",
+          "url": "https://www.google.com/maps/dir//5.170128,100.4792231"
+        }
+      }
+    ],
+    "Jawi": [
+      {
+        "name": "Area Jawi",
+        "details": {
+          "address": "Jawi, 14200 Sungai Jawi, Penang",
+          "url": "https://www.google.com/maps/dir//5.207162,100.500286"
+        }
+      }
+    ],
+    "Dalam": [
+      {
+        "name": "Area Bagan Dalam",
+        "details": {
+          "address": "Bagan Dalam, 12100 Butterworth, Penang",
+          "url": "https://www.google.com/maps/dir//5.394902999999999,100.3707112"
+        }
+      },
+      {
+        "name": "Area Pantai Dalam",
+        "details": {
+          "address": "Pantai Dalam, Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.111359,101.6622439"
+        }
+      }
+    ],
+    "Mertajam": [
+      {
+        "name": "Area Bukit Mertajam",
+        "details": {
+          "address": "Bukit Mertajam, Penang",
+          "url": "https://www.google.com/maps/dir//5.365458,100.4590091"
+        }
+      }
+    ],
+    "Perai": [
+      {
+        "name": "Area North Seberang Perai",
+        "details": {
+          "address": "North Seberang Perai District, Penang",
+          "url": "https://www.google.com/maps/dir//5.514834100000001,100.4355477"
+        }
+      }
+    ],
+    "Selangor": [
+      {
+        "name": "SYARIKAT SRI ALAM @ SEKSYEN 6",
+        "details": {
+          "address": "5, Jalan Murai 6/1f, Seksyen 6, 40000 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.082944,101.506993"
+        }
+      },
+      {
+        "name": "Syarikat Tuah Bersaudara, Shah Alam, Selangor",
+        "details": {
+          "address": "Jln Pulau Lumut P U10/P, Alam Budiman, 40170 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.14434,101.481855"
+        }
+      },
+      {
+        "name": "Shell Station, Petaling Jaya, Selangor",
+        "details": {
+          "address": "Jalan 222, 4, Persiaran P.P Narayanan, Section 51A, 46100 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0963838,101.629762"
+        }
+      },
+      {
+        "name": "Tanah Aina Cafe, Shah Alam, Selangor",
+        "details": {
+          "address": "Wisma Tanah Aina, Jalan Mesra 1, Hicom-glenmarie Industrial Park, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0770774,101.5588998"
+        }
+      },
+      {
+        "name": "BMS Organics Puchong Utama, Puchong, Selangor",
+        "details": {
+          "address": "72, Jalan BPU 1, Bandar Puchong Utama, 47100 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9951345,101.6209057"
+        }
+      },
+      {
+        "name": "Perniagaan Hasil Alam, Cyberjaya, Selangor",
+        "details": {
+          "address": "12, Jln GC 3, Cyberjaya, 63000 Cyberjaya, Selangor",
+          "url": "https://www.google.com/maps/dir//2.924001199999999,101.6569979"
+        }
+      },
+      {
+        "name": "Gerobok Kasih, Semenyih, Selangor",
+        "details": {
+          "address": "13, Jln Anggerik Perdana 1, Taman Anggerik Perdana, 43500 Semenyih, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9736015,101.8246016"
+        }
+      },
+      {
+        "name": "Pangsapuri Seri Purnama, Shah Alam, Selangor",
+        "details": {
+          "address": "Pangsapuri Seri Purnama, Jalan Nova U5/71a, Subang Bestari, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1832295,101.5409685"
+        }
+      },
+      {
+        "name": "Kedai Serbaneka Helen, Subang Jaya, Selangor",
+        "details": {
+          "address": "12A, Jalan USJ Heights 1/1C, Usj Heights, 47610 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0620629,101.5686027"
+        }
+      },
+      {
+        "name": "Ayam Cincang 7 Warisan, Subang Jaya, Selangor",
+        "details": {
+          "address": "No 43, Jalan USJ 1/1c, Regalia Business Centre, 47500 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0561664,101.6062919"
+        }
+      },
+      {
+        "name": "Kedai Khemah Hijau, Kajang, Selangor",
+        "details": {
+          "address": "Plot 8, Jalan Prima Saujana 2/F, Taman Prima Saujana, 43000 Kajang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.009149,101.80261"
+        }
+      },
+      {
+        "name": "Restoran Temerloh Catering, Shah Alam, Selangor",
+        "details": {
+          "address": "2, Jalan Pahat J 15/J, Seksyen 15, 40000 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.065026899999999,101.524682"
+        }
+      },
+      {
+        "name": "Pusat Khidmat Masyarakat DUN Kota Anggerik, Shah Alam, Selangor",
+        "details": {
+          "address": "Jln Judo 13/45, Seksyen 13, 40100 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.071242,101.5393805"
+        }
+      },
+      {
+        "name": "Lions Club Food Bank @ USJ8, Subang Jaya, Selangor",
+        "details": {
+          "address": "44, Jalan USJ 8/2a, Usj 8, 47630 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0433164,101.5891673"
+        }
+      },
+      {
+        "name": "Malakat Grocer @ Taman Kosas, Ampang, Selangor",
+        "details": {
+          "address": "23, Jalan Kosas 1/3, Taman Kosas, 68000 Ampang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1471846,101.7708544"
+        }
+      },
+      {
+        "name": "Malakat Grocer @ Putra Perdana, Puchong, Selangor",
+        "details": {
+          "address": "Putra Perdana, 47130 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//2.948701999999999,101.61626"
+        }
+      },
+      {
+        "name": "Malakat Grocer @ Pandan Mewah, Ampang, Selangor",
+        "details": {
+          "address": "Taman Pandan Mewah, Ampang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.128024,101.765479"
+        }
+      },
+      {
+        "name": "Malakat Grocer @ Kota Warisan, Sepang, Selangor",
+        "details": {
+          "address": "14-G, Jalan Warisan Megah 1/4, Kota Warisan, 43900 Sepang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.8246944,101.7050923"
+        }
+      },
+      {
+        "name": "Malakat Grocer @ Greenwood, Gombak, Selangor",
+        "details": {
+          "address": "40, Jln 10, Taman Batu, 68100 Batu Caves, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2334105,101.7019994"
+        }
+      },
+      {
+        "name": "C'ANI Cafe & Catering @ No. 20, Medan Selera Serai, Shah Alam, Selangor",
+        "details": {
+          "address": "6, Jalan Dawai 16/2, Seksyen 16, 40200 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0590296,101.5051361"
+        }
+      },
+      {
+        "name": "The Rack Boutique & Cafe, Batu Caves, Selangor",
+        "details": {
+          "address": "1, Jalan Os 1/4, One Selayang, 68100 Batu Caves, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2475451,101.6512906"
+        }
+      },
+      {
+        "name": "Nasi Briyani Hj Ali Batu Pahat 40 Tahun Damansara Damai, Petaling Jaya, Selangor",
+        "details": {
+          "address": "Damansara Damai, 47810 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1955871,101.5922385"
+        }
+      },
+      {
+        "name": "Kedai Makan Abang Tukang Masak, Petaling Jaya, Selangor",
+        "details": {
+          "address": "C-G01, Plaza Suria, Jalan PJU 10/4c, Damansara Damai, 47830 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1946278,101.585084"
+        }
+      },
+      {
+        "name": "YILO RESTAURANT & BAR, Petaling Jaya, Selangor",
+        "details": {
+          "address": "23, Jalan SS 23/15, Taman Sea, 47400 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1165442,101.6128519"
+        }
+      },
+      {
+        "name": "YILO (SS15) RESTAURANT & BAR, Subang Jaya, Selangor",
+        "details": {
+          "address": "143, Jalan SS 15/5a, Ss 15, 47500 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0816664,101.5902753"
+        }
+      },
+      {
+        "name": "Klinik Anda Kota Damansara (24jam), Petaling Jaya, Selangor",
+        "details": {
+          "address": "27, Jln PJU 5/20e, Kota Damansara, 47810 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1551464,101.5953681"
+        }
+      },
+      {
+        "name": "ALHUMAIRA HQ, Shah Alam, Selangor",
+        "details": {
+          "address": "9, Jln Setia Dagang AJ U13/AJ, Setia Alam, 40170 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.108008099999999,101.4678566"
+        }
+      },
+      {
+        "name": "OpenRice Malaysia, Seri Kembangan, Selangor",
+        "details": {
+          "address": "1120, Jalan Sekolah, Kampung Baru Seri Kembangan, 43300 Seri Kembangan, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0239803,101.7024632"
+        }
+      },
+      {
+        "name": "Signature Ting Shop S/B & CO2 Coating Concept S/B, Puchong, Selangor",
+        "details": {
+          "address": "56, Jalan Op 1/5, Bandar Puchong Jaya, 47160 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0397124,101.6184491"
+        }
+      },
+      {
+        "name": "2B Medan Selera, Hulu Langat, Selangor",
+        "details": {
+          "address": "Taman Pinggiran Delima, 43100 Hulu Langat, Selangor",
+          "url": "https://www.google.com/maps/dir//3.122606,101.8095491"
+        }
+      },
+      {
+        "name": "SMK Wangsa Melawati, Klang, Selangor",
+        "details": {
+          "address": "Jalan Genting Kelang, Taman Wangsa Melawati, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.214024199999999,101.7412055"
+        }
+      },
+      {
+        "name": "Pet Shop @ AEON BiG Tun Hussein Onn, Cheras, Selangor",
+        "details": {
+          "address": "Bandar Tun Hussien Onn, Jln, Persiaran Suarasa 2, Tun Hussein Onn, 43200 Cheras, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0487449,101.7587203"
+        }
+      },
+      {
+        "name": "Nasi Bajet Shima, Kota Damansara, Selangor",
+        "details": {
+          "address": "Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+          "url": "https://www.google.com/maps/dir//3.157639999999999,101.577042"
+        }
+      },
+      {
+        "name": "BHPetrol Kuala Selangor By Seng Group, Kuala Selangor, Selangor",
+        "details": {
+          "address": "Bandar Malawati, 45000 Kuala Selangor, Selangor",
+          "url": "https://www.google.com/maps/dir//3.337214999999999,101.2505323"
+        }
+      },
+      {
+        "name": "Magzon Trading Shell Setia Alam, Shah Alam, Selangor",
+        "details": {
+          "address": "Persiaran Setia Prima, Lot Pt 12157, Bandar, Setia Alam, 40170 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0983607,101.4625411"
+        }
+      },
+      {
+        "name": "Shell SKVE, Seri Kembangan, Selangor",
+        "details": {
+          "address": "Skve Kajang Bound, SKVE, 62000 Seri Kembangan, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9738366,101.6782395"
+        }
+      },
+      {
+        "name": "Shell Batu Belah, Klang, Selangor",
+        "details": {
+          "address": "Lengkok Sentosa 41 Lengkok, Jalan Sentosa 45, Kampung Batu Belah, 42100 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.071411599999999,101.4448797"
+        }
+      },
+      {
+        "name": "Shell Meru Batu 5, Klang, Selangor",
+        "details": {
+          "address": "Jalan Salleh, Lot 32460, 32404, Jln Meru, Taman Meru Selatan, 42200 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1189162,101.4406728"
+        }
+      },
+      {
+        "name": "Shell Jalan Haji Sirat, Klang, Selangor",
+        "details": {
+          "address": "Jalan Haji Sirat, Lot 17534, Mkm Kapar, Kampung Batu Belah, 42100 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0773574,101.4323257"
+        }
+      },
+      {
+        "name": "Shell Kota Bayu Emas, Pelabuhan Klang, Selangor",
+        "details": {
+          "address": "Pulau Indah Highway Lot PT 110056, 42000 Pelabuhan Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9831742,101.4414159"
+        }
+      },
+      {
+        "name": "Shell Bandar Botanik, Klang, Selangor",
+        "details": {
+          "address": "Jalan Langat, Bandar Botanik, 41200 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.990871499999999,101.4477986"
+        }
+      },
+      {
+        "name": "Shell Pandamaran, Klang, Selangor",
+        "details": {
+          "address": "Jalan Mesra Pt 12367, Jalan Kim Chuan, Taman Chi, 41200 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0158846,101.4243147"
+        }
+      },
+      {
+        "name": "Shell Kanchong Darat, Banting, Selangor",
+        "details": {
+          "address": "Jalan Sultan Alam Shah, Mukim of Kelanang, 42700 Banting, Selangor",
+          "url": "https://www.google.com/maps/dir//2.793639,101.487232"
+        }
+      },
+      {
+        "name": "Shell Elite Highway, Sepang, Selangor",
+        "details": {
+          "address": "Shell, Arah Selatan, KM 23.8, ELITE, 43900 Sepang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.901897,101.6159101"
+        }
+      },
+      {
+        "name": "Shell Seksyen 7, Shah Alam, Selangor",
+        "details": {
+          "address": "Seksyen 7, 40450 Shah Alam, Selangor, Malaysia",
+          "url": "https://www.google.com/maps/dir//3.066067,101.491232"
+        }
+      },
+      {
+        "name": "Shell Bukit Rimau, Shah Alam, Selangor",
+        "details": {
+          "address": "Persiaran Sungai Selangor, Persiaran Sungai Congkak 32/41, Sg Selangor, 40460 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9972908,101.526538"
+        }
+      },
+      {
+        "name": "Shell Seksyen 18, Shah Alam, Selangor",
+        "details": {
+          "address": "Persiaran Jubli Perak, Seksyen 18, 40200 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.044283399999999,101.5157469"
+        }
+      },
+      {
+        "name": "Shell Taman Chi Liung, Klang, Selangor",
+        "details": {
+          "address": "Persiaran Tengku Ampuan Rahimah, Taman Petaling Indah, 41300 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.024401,101.4424672"
+        }
+      },
+      {
+        "name": "Shell USJ18, Subang Jaya, Selangor",
+        "details": {
+          "address": "Jalan USJ 18-7 Usj 18 Uep, Usj 18, 47630 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0315967,101.5862792"
+        }
+      },
+      {
+        "name": "Shell USJ6, Subang Jaya, Selangor",
+        "details": {
+          "address": "6-2j, Lot PT 7004, Jl. USJ 6/2j, Usj 6, 47600 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0510777,101.5834234"
+        }
+      },
+      {
+        "name": "Shell SS19, Subang Jaya, Selangor",
+        "details": {
+          "address": "37A, 37A, Jalan SS 19/2, Ss 19, 47500 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.066164199999999,101.5798366"
+        }
+      },
+      {
+        "name": "Shell Putra Heights, Subang Jaya, Selangor",
+        "details": {
+          "address": "3214 Ldp, Usj 25, Putra Heights, 47100 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0220049,101.5815832"
+        }
+      },
+      {
+        "name": "Shell Puchong Jaya, Puchong, Selangor",
+        "details": {
+          "address": "Jalan Merak 2a, 2, Jalan Merak 1, Bandar Puchong Jaya, 47100 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0528025,101.6233476"
+        }
+      },
+      {
+        "name": "Shell LDP Putra Heights, Puchong, Selangor",
+        "details": {
+          "address": "Lebuhraya Damansara - Puchong, Taman Perindustrian Puchong Utama, 47100 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//2.999625899999999,101.6116704"
+        }
+      },
+      {
+        "name": "Shell Bandar Kinrara 5, Puchong, Selangor",
+        "details": {
+          "address": "Jalan Kinrara 5, Bandar Kinrara, 47180 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0379768,101.643032"
+        }
+      },
+      {
+        "name": "Shell Bandar Putri Puchong, Puchong, Selangor",
+        "details": {
+          "address": "Jalan Industri PBP 2 Tmn. Ind. Pusat Bdr. Puchong, Tmn. Ind. Pusat Bdr. Puchong 1, Taman Perindustrian Pusat Bandar Puchong, 47100 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0123792,101.6151552"
+        }
+      },
+      {
+        "name": "Shell Jalan Puchong (Putra Perdana), Puchong, Selangor",
+        "details": {
+          "address": "Jln Puchong, Mukim Dengkil, 47100 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9594842,101.6176745"
+        }
+      },
+      {
+        "name": "Shell Rawang, Rawang, Selangor",
+        "details": {
+          "address": "Laluan Persekutuan 1, 1 65 3rd Ml, Jalan Gombak, 48000 Rawang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.3304321,101.57994"
+        }
+      },
+      {
+        "name": "Shell Ijok, Batang Berjuntai, Selangor",
+        "details": {
+          "address": "Jalan Kuala Salangor Jln IP 1, Laluan 54, Lot 420, Jalan Permai 1, Simpang Tiga Ijok, 45600 Kuala Selangor, Selangor",
+          "url": "https://www.google.com/maps/dir//3.312463699999999,101.4189045"
+        }
+      },
+      {
+        "name": "Shell Puncak Alam, Bandar Puncak Alam, Selangor",
+        "details": {
+          "address": "Jalan Persiaran Puncak Alam 6, 42300 Puncak Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2337005,101.4503865"
+        }
+      },
+      {
+        "name": "Shell Bandar Utama, Petaling Jaya, Selangor",
+        "details": {
+          "address": "Persiaran Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1437426,101.6161089"
+        }
+      },
+      {
+        "name": "Shell Desa Aman Puri, Selangor",
+        "details": {
+          "address": "Persiaran Perdana, 1022, Persiaran Cemara, Desa Aman Puri, 47000 Kuala Lumpur, Selangor",
+          "url": "https://www.google.com/maps/dir//3.208268599999999,101.6147107"
+        }
+      },
+      {
+        "name": "Shell LDP Kelana Jaya, Petaling Jaya, Selangor",
+        "details": {
+          "address": "Lebuhraya Damansara - Puchong, E11, 47301 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1029646,101.5967467"
+        }
+      },
+      {
+        "name": "Shell Jalan Kajang Semenyih, Kajang, Selangor",
+        "details": {
+          "address": "Jalan Semenyih, Jalan Kajang, 43000 Kajang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.985217,101.8139415"
+        }
+      },
+      {
+        "name": "Shell Ligamas, Batang Kali, Selangor",
+        "details": {
+          "address": "Jalan Batang Kali-Hulu Yam Bharu, B113, Jalan Meranti 2a, Seksyen 4 Bandar Utama Batang Kali, 44300 Batang Kali, Selangor",
+          "url": "https://www.google.com/maps/dir//3.462033,101.6552829"
+        }
+      },
+      {
+        "name": "Shell Sek 7 Bangi, Bangi, Selangor",
+        "details": {
+          "address": "Jalan 7/1, Seksyen 7 Bandar Baru Bangi, 43650 Bandar Baru Bangi, Selangor",
+          "url": "https://www.google.com/maps/dir//2.967677,101.7739752"
+        }
+      },
+      {
+        "name": "Shell Kota Damansara Seksyen 7, Petaling Jaya, Selangor",
+        "details": {
+          "address": "Persiaran Jati, Pusat Bandar Sungai Buloh, 47810 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1734488,101.5759454"
+        }
+      },
+      {
+        "name": "Shell Puchong Permai, Puchong, Selangor",
+        "details": {
+          "address": "16, Jalan Puchong Permai 2, Taman Puchong Permai, 47100 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0092151,101.5992479"
+        }
+      },
+      {
+        "name": "Shell Titijaya, Shah Alam, Selangor",
+        "details": {
+          "address": "Jln Sungai Buloh, Desa Subang Permai, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1478973,101.5252675"
+        }
+      },
+      {
+        "name": "Shell Kota Damansara Seksyen 6, Petaling Jaya, Selangor",
+        "details": {
+          "address": "Jalan Cecawi 6/18a, Kota Damansara, 47810 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1609045,101.5744158"
+        }
+      },
+      {
+        "name": "Shell USJ9, Subang Jaya, Selangor",
+        "details": {
+          "address": "Jalan USJ 9/3, Usj 9, 47600 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.043064999999999,101.5832054"
+        }
+      },
+      {
+        "name": "The Skinny Bakers, Subang Jaya, Selangor",
+        "details": {
+          "address": "19A, Jln SS 15/2A, Ss 15, 47500 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.081614,101.5877165"
+        }
+      },
+      {
+        "name": "Dinar Mart Cafe Pintu 3, Subang Jaya, Selangor",
+        "details": {
+          "address": "Bazar Wakaf Rakyat, 3, Jalan SS 15/2e, Ss 15, 47500 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0804609,101.5855708"
+        }
+      },
+      {
+        "name": "Surau Al-Ikhlas SS19, Subang Jaya, Selangor",
+        "details": {
+          "address": "9, Jalan SS 19/1, Ss 19, 47500 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.074511299999999,101.5754903"
+        }
+      },
+      {
+        "name": "Aisyah Mart USJ 9, Subang Jaya, Selangor",
+        "details": {
+          "address": "3-1 Jalan USJ 9/5N UEP Subang Jaya, UEP, 47620 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0459103,101.5863323"
+        }
+      },
+      {
+        "name": "Kooperasi Masjid Al Falah USJ9, Subang Jaya, Selangor",
+        "details": {
+          "address": "36, Jalan USJ 9/5j, Usj 9, 47620 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.044897299999999,101.5872423"
+        }
+      },
+      {
+        "name": "Snacks Station USJ1, Subang Jaya, Selangor",
+        "details": {
+          "address": "45, Jalan USJ 1/19, Taman Subang Permai, 47500 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.057672799999999,101.600504"
+        }
+      },
+      {
+        "name": "Surau al-Muttaqun USJ12, Subang Jaya, Selangor",
+        "details": {
+          "address": "58, Jalan USJ 12/2, Usj 12, 47630 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0399707,101.5761671"
+        }
+      },
+      {
+        "name": "Masjid Annur USJ 4, Subang Jaya, Selangor",
+        "details": {
+          "address": "Jalan USJ 4/1n, Usj 4, 47600 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.057111100000001,101.5767279"
+        }
+      },
+      {
+        "name": "Jim's Recipe USJ Taipan, Subang Jaya, Selangor",
+        "details": {
+          "address": "11, Jalan USJ 10/1d, Taipan Business Centre, 47620 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.048415799999999,101.5842629"
+        }
+      },
+      {
+        "name": "Bean Jr 豆仃仔 Taipan, Subang Jaya, Selangor",
+        "details": {
+          "address": "37, Jalan USJ 10/1e, Taipan Business Centre, 47620 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0481078,101.583766"
+        }
+      },
+      {
+        "name": "Area Hulu Selangor",
+        "details": {
+          "address": "Hulu Selangor District, Selangor",
+          "url": "https://www.google.com/maps/dir//3.5601046,101.6583123"
+        }
+      },
+      {
+        "name": "Area Kuala Selangor",
+        "details": {
+          "address": "Kuala Selangor, Selangor",
+          "url": "https://www.google.com/maps/dir//3.340184,101.249762"
+        }
+      },
+      {
+        "name": "Restoran Tar Chong 大众美食中心, Seri Kembangan, Selangor",
+        "details": {
+          "address": "No.1, Jalan Equine 9b, Taman Equine, 43300 Seri Kembangan, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9965189,101.674258"
+        }
+      },
+      {
+        "name": "Kai Xin Restaurant, Puchong, Selangor",
+        "details": {
+          "address": "Jalan Wawasan 2/22, Pusat Bandar Puchong, 47100 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//3.025082,101.628672"
+        }
+      },
+      {
+        "name": "JDV CAFE, Subang Jaya, Selangor",
+        "details": {
+          "address": "8G, Jalan USJ 10/1e, Taipan Business Centre, 47620 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.049347199999999,101.5836336"
+        }
+      },
+      {
+        "name": "kEATchen, Ara Damansara, Selangor",
+        "details": {
+          "address": "8, Jalan PJU 1a/14, Taman Perindustrian Jaya, 47301 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1211045,101.5743695"
+        }
+      },
+      {
+        "name": "Masjid Raja Haji Fisabilillah, Cyberjaya, Selangor",
+        "details": {
+          "address": "Persiaran Semarak Api, Cyberjaya, 63000 Cyberjaya, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9324933,101.647958"
+        }
+      },
+      {
+        "name": "Awesome Canteen, Petaling Jaya, Selangor",
+        "details": {
+          "address": "19, Jalan 20/13, Taman Paramount, 46300 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1061679,101.624858"
+        }
+      },
+      {
+        "name": "16 Kopitiam (16间茶餐室）, Petaling Jaya, Selangor",
+        "details": {
+          "address": "454-455, Jalan SS 9a/2, Ss 9a, 47300 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0881815,101.6170953"
+        }
+      },
+      {
+        "name": "Blessing Box @ TTC Education 名师教育, Petaling Jaya, Selangor",
+        "details": {
+          "address": "115, Jalan Gasing, Pjs 10, 46000 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1071689,101.653364"
+        }
+      },
+      {
+        "name": "Boodak Outlet, Shah Alam, Selangor",
+        "details": {
+          "address": "12, Jalan Setia Perdana BF U13/BF, Alam Nusantara, 40170 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1242614,101.4694507"
+        }
+      },
+      {
+        "name": "Asam Pedas Premier, Shah Alam, Selangor",
+        "details": {
+          "address": "17, Jalan Serambi U8/21, Bukit Jelutong, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1030603,101.5284471"
+        }
+      },
+      {
+        "name": "SB Elektrik & Elektronik Sdn Bhd, Sungai Buloh, Selangor",
+        "details": {
+          "address": "No 48, JIn, Jalan BRP 1/2, Bukit Rahman Putra, 40160 Sungai Buloh, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2114986,101.5614186"
+        }
+      },
+      {
+        "name": "Tealive Jalan Mamanda Ampang Shoplot, Ampang, Selangor",
+        "details": {
+          "address": "83 (Sebahagian, Lorong Memanda 1, Taman Dato Ahmad Razali, 68000 Ampang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1589692,101.75067"
+        }
+      },
+      {
+        "name": "Fruity Grocer (Denai Alam), Shah Alam, Selangor",
+        "details": {
+          "address": "No. 23-1, Jalan Elektron EU16/E Seksyen, U16, Denai Alam, 40160 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1617294,101.5125075"
+        }
+      },
+      {
+        "name": "COSMOS 165 Pharmacy Denai Alam, Shah Alam, Selangor",
+        "details": {
+          "address": "9-1, Jln Elektron U16/D, Denai Alam, 40160 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.161997,101.5117223"
+        }
+      },
+      {
+        "name": "Ready To Cook Grocer, Shah Alam, Selangor",
+        "details": {
+          "address": "M U16/M 9-G, Jln Elektron U16/E, Denai Alam, 40160 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1636849,101.5146368"
+        }
+      },
+      {
+        "name": "BHPetrol Sungai Kayu Ara, Petaling Jaya, Selangor",
+        "details": {
+          "address": "LOT 13639 JALAN KENANGA, OFF, Lebuhraya Damansara - Puchong, Kampung Sungai Kayu Ara, 47400 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.132824,101.6113395"
+        }
+      },
+      {
+        "name": "KLINIK SP CARE RAWANG MUTIARA, Rawang, Selangor",
+        "details": {
+          "address": "2A-1, 7, Jalan Rawang Mutiara 3, Rawang Mutiara Business Centre, 48000 Rawang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.328646,101.580501"
+        }
+      },
+      {
+        "name": "SK Sri Damai, Petaling Jaya, Selangor",
+        "details": {
+          "address": "Jalan 17/13, Seksyen 17, 46400 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1220284,101.634315"
+        }
+      },
+      {
+        "name": "Petronas Bandar Tasik Puteri, Rawang, Selangor",
+        "details": {
+          "address": "Lot PT 31681, HSM 12849, Persiaran Puteri 3, Bandar Tasik Puteri, 48020 Rawang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.275473799999999,101.4748938"
+        }
+      },
+      {
+        "name": "PETRONAS - Batu 6, Jalan Gombak, Taman Gombak, Selangor",
+        "details": {
+          "address": "6, Jln Gombak, Taman Gombak, 53100 Taman Gombak, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2178022,101.7133948"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Dagang, Ampang Selangor",
+        "details": {
+          "address": "Lot 44706 (PT 12671 HS(d) 130125, Jalan Dagang, Taman Nirwana, 68000 Ampang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1451594,101.755466"
+        }
+      },
+      {
+        "name": "Petronas Taman Samudera, Batu Caves, Selangor",
+        "details": {
+          "address": "Taman Samudra, 68100 Batu Caves, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2351319,101.6920847"
+        }
+      },
+      {
+        "name": "Petronas Bukit Nanding, Selangor",
+        "details": {
+          "address": "Batu 121/2, Jalan Bukit Nanding, Taman Lagenda Suria, 43100 Hulu Langat, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0993287,101.8025496"
+        }
+      },
+      {
+        "name": "Petronas Persiaran Mahkota Cheras, Cheras, Selangor",
+        "details": {
+          "address": "52, Jalan Kasawari, 43200 Cheras, Selangor",
+          "url": "https://www.google.com/maps/dir//3.052561,101.7763956"
+        }
+      },
+      {
+        "name": "PETRONAS - Prima Saujana 1, Kajang, Selangor",
+        "details": {
+          "address": "Lot 17892 Sublot D Taman, Prima Saujana, 43000 Kajang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0074429,101.8030387"
+        }
+      },
+      {
+        "name": "NGV PETRONAS @ Seksyen 3, Bangi, Selangor",
+        "details": {
+          "address": "Lot, PS 1, Jalan 3/1, Seksyen 3 Bandar Baru Bangi, 43650 Bangi, Selangor",
+          "url": "https://www.google.com/maps/dir//2.939026300000001,101.7753489"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Rakan, Kajang, Selangor",
+        "details": {
+          "address": "Jalan Sungai Long, Bandar Sungai Long, 43200 Kajang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.035826,101.7841028"
+        }
+      },
+      {
+        "name": "Petronas Hamzah Alang Meru, Kapar, Selangor",
+        "details": {
+          "address": "PERSIARAN HAMZAH ALANG Kapar, 42200 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.136466999999999,101.4113408"
+        }
+      },
+      {
+        "name": "Petronas Kampung Jawa, Klang, Selangor",
+        "details": {
+          "address": "Lot 17867, Jalan Kota Raja, Kampung Jawa, 41000 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0332706,101.4533114"
+        }
+      },
+      {
+        "name": "Petronas Bandar Saujana Putra, Selangor",
+        "details": {
+          "address": "Lot 26103, Jalan SP 4/31, Bandar Saujana Putra, 42610 Sungai Jarum, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9448137,101.5878462"
+        }
+      },
+      {
+        "name": "Petronas @ Jenjarum, Selangor",
+        "details": {
+          "address": "Lot 2465, Kampung Sungai Rambai, 42600 Jenjarom, Selangor",
+          "url": "https://www.google.com/maps/dir//2.885189,101.492118"
+        }
+      },
+      {
+        "name": "Petronas Puncak Alam 1, Puncak Alam, Selangor",
+        "details": {
+          "address": "PT 1933, Jalan Meru Tambahan, 42300 Puncak Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2204992,101.4461791"
+        }
+      },
+      {
+        "name": "Petronas Batu 3, Shah Alam, Selangor",
+        "details": {
+          "address": "Pt119, Jalan Mesra 1, Hicom-glenmarie Industrial Park, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.076776,101.5593811"
+        }
+      },
+      {
+        "name": "Petronas Batu 3 Federal Highway, Subang Jaya, Selangor",
+        "details": {
+          "address": "Batu Tiga, Lebuhraya Persekutuan, 47500 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0807645,101.5722642"
+        }
+      },
+      {
+        "name": "Petronas Bukit Jelutong, Shah Alam, Selangor",
+        "details": {
+          "address": "30147, Jalan Lelangit U8/45, Seksyen U8, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.115808299999999,101.526937"
+        }
+      },
+      {
+        "name": "PETRONAS Bukit Rahman Putra (NGV), Sungai Buloh, Selangor",
+        "details": {
+          "address": "Lot PT 33428, GRN 41170, Pekan Baru Sungai Buluh, Jalan Bukit Rahman Putra, Sunway Rahman Putra, 47000 Sungai Buloh, Selangor",
+          "url": "https://www.google.com/maps/dir//3.224469,101.5567581"
+        }
+      },
+      {
+        "name": "Petronas Taman Equine, Seri Kembangan, Selangor",
+        "details": {
+          "address": "Lot 53391, PN 7404, Taman Equine, Mukim Petaling, Taman Equine, 43300 Seri Kembangan, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9945988,101.6760136"
+        }
+      },
+      {
+        "name": "PETRONAS Glenmarie TTDI Jaya, Shah Alam, Selangor",
+        "details": {
+          "address": "24, Jalan Juruwang A U1/A, Seksyen U 1, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0953337,101.5562159"
+        }
+      },
+      {
+        "name": "Petronas Jalan Plumbum Seksyen 7, Shah Alam, Selangor",
+        "details": {
+          "address": "1, Persiaran Kayangan, Fasa 3C, Jalan Plumbum P7/P, Seksyen 7, 40000 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0689118,101.4904252"
+        }
+      },
+      {
+        "name": "PETRONAS - Kampung Baru Subang, Shah Alam, Selangor",
+        "details": {
+          "address": "Lot 4029, Jalan 1 D, Jalan Kampung Baru Subang, Sek U 6, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1425401,101.5328862"
+        }
+      },
+      {
+        "name": "Petronas, Puchong, Selangor",
+        "details": {
+          "address": "Lot 13985, Jalan Meranti Jaya, Taman Meranti Jaya, 47120 Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9790249,101.6130079"
+        }
+      },
+      {
+        "name": "PETRONAS Merbau Indah (Stesen Mi Mesra), Sungai Buloh, Selangor",
+        "details": {
+          "address": "Kampung Merbau Indah, 47000 Sungai Buloh, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2242966,101.4962382"
+        }
+      },
+      {
+        "name": "Petronas NKVE, Petaling Jaya, Selangor",
+        "details": {
+          "address": "Lot 15385 KM 15, 3, New Klang Valley Expy, Damansara Bound, 47000 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1192383,101.5928717"
+        }
+      },
+      {
+        "name": "PETRONAS NKVE Subang, Petaling Jaya, Selangor",
+        "details": {
+          "address": "Section 40, 47301 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.100404999999999,101.5903501"
+        }
+      },
+      {
+        "name": "PETRONAS - Persiaran Kayangan, Shah Alam, Selangor",
+        "details": {
+          "address": "Lot 12, Persiaran Kayangan, Seksyen 7, 40000 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0763498,101.4941004"
+        }
+      },
+      {
+        "name": "PETRONAS Putra Bistari, Subang Jaya, Selangor",
+        "details": {
+          "address": "Lot 3612, Persiaran Putra Bistari, Putra Heights, 47650 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0190149,101.5751243"
+        }
+      },
+      {
+        "name": "Petronas Seksyen 15, Shah Alam, Selangor",
+        "details": {
+          "address": "1, Jalan Tukul P15/P, Seksyen 15, 40200 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0635775,101.5243987"
+        }
+      },
+      {
+        "name": "Petronas Seksyen 18, Shah Alam, Selangor",
+        "details": {
+          "address": "Persiaran Jubli Perak, Seksyen 18, 40200 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0448765,101.5153144"
+        }
+      },
+      {
+        "name": "Petronas Seksyen 6, Shah Alam, Selangor",
+        "details": {
+          "address": "435, Jalan Nuri 6/1, Seksyen 6, 40000 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0836361,101.5073463"
+        }
+      },
+      {
+        "name": "Petronas Setia Alam, Shah Alam, Selangor",
+        "details": {
+          "address": "Alam Nusantara, 40170 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1093145,101.4477475"
+        }
+      },
+      {
+        "name": "Petronas Sg Buloh Layby, Sungai Buloh, Selangor",
+        "details": {
+          "address": "47000 Sungai Buloh, Selangor",
+          "url": "https://www.google.com/maps/dir//3.224425100000001,101.5770602"
+        }
+      },
+      {
+        "name": "Petronas Subang Airport, Shah Alam, Selangor",
+        "details": {
+          "address": "Lot 1210, Jalan Lapangan Terbang Subang, U 3, 47200 Subang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1171387,101.5654568"
+        }
+      },
+      {
+        "name": "PETRONAS Temasya Federal Highway, Shah Alam, Selangor",
+        "details": {
+          "address": "KM18.5 Lebuhraya Persekutuan Subang Exit (KL Bound), Seksyen U1, Kawasan Perindustrian Temasya, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0842192,101.5833528"
+        }
+      },
+      {
+        "name": "Petronas USJ 2, Subang Jaya, Selangor",
+        "details": {
+          "address": "Lot PT 2781, Jalan USJ 2/ 2D, Subang UEP, 19, Jalan USJ 2/2c, UEP Subang Jaya, 47600 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0574899,101.5915216"
+        }
+      },
+      {
+        "name": "Petronas Elite Highway, Dengkil, Selangor",
+        "details": {
+          "address": "CH 22600, Kawasan Rehat & Rawat Dengkil Hubungan Tengah, ELITE, Lebuhraya Utara Selatan, 43800 Dengkil, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9104004,101.6093152"
+        }
+      },
+      {
+        "name": "Farmasi Loffel, Beranang, Selangor",
+        "details": {
+          "address": "No 7G, Jln Kesuma 3/13, Bandar Tasik Kesuma, 43700 Beranang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.90785,101.8652907"
+        }
+      },
+      {
+        "name": "BHP Jalan Semenyih, Kajang, Selangor",
+        "details": {
+          "address": "Batu 16, Jalan Semenyih, Taman Restu, 43000 Kajang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9876792,101.8072474"
+        }
+      },
+      {
+        "name": "Tashafatnin HQ, Semenyih, Selangor",
+        "details": {
+          "address": "62A Eco Majestic Ivoris , Jalan Eco Majestic 9/1B , 43500, 43500 Semenyih, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9019658,101.8395432"
+        }
+      },
+      {
+        "name": "Petronas Pelangi Semenyih (NGV), Semenyih, Selangor",
+        "details": {
+          "address": "1, Jalan Semenyih, Taman Pelangi Semenyih, 43500 Semenyih, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9281755,101.8572669"
+        }
+      },
+      {
+        "name": "TT FRESH DEPOT, Beranang, Selangor",
+        "details": {
+          "address": "MY selangor beranang, Eco majestic, Jln Eco Majestic 9/1B, 43700 Semenyih, Selangor",
+          "url": "https://www.google.com/maps/dir//2.901401,101.8372744"
+        }
+      },
+      {
+        "name": "Masjid Khariah Kampung Sesapan Batu Rembau, Beranang, Selangor",
+        "details": {
+          "address": "Kampung Sesapan Batu Rembau, 43700 Beranang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.882938100000001,101.876405"
+        }
+      },
+      {
+        "name": "Órale Damansara Uptown, Petaling Jaya, Selangor",
+        "details": {
+          "address": "28, Jalan SS 21/58, Damansara Utama, 47400 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.137358,101.6222484"
+        }
+      },
+      {
+        "name": "Ameens Corner Restaurant, Subang Jaya, Selangor",
+        "details": {
+          "address": "Jalan USJ 3a/2, Usj 3, 47600 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.052703799999999,101.5702401"
+        }
+      },
+      {
+        "name": "Warisan Indah Homestay | Homestay KLIA, Sepang, Selangor",
+        "details": {
+          "address": "49&51, Jalan Warisan Indah 8/6, Kota Warisan, 43900 Sepang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.8254928,101.6895157"
+        }
+      },
+      {
+        "name": "Surau Nurussobah, Balakong, Selangor",
+        "details": {
+          "address": "Jalan Balakong Jaya 1, Taman Setia Balakong, 43300 Balakong, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0135721,101.7533262"
+        }
+      },
+      {
+        "name": "Surau Al-solehin, Klang, Selangor",
+        "details": {
+          "address": "Jalan Paip, 40170 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1439668,101.4500716"
+        }
+      },
+      {
+        "name": "Thomson Hospital Kota Damansara, Petaling Jaya, Selangor",
+        "details": {
+          "address": "11, Jalan Teknologi, Taman Sains Selangor, 1, PJU 5, Kota Damansara, 47810 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1489754,101.5787909"
+        }
+      },
+      {
+        "name": "Rahman Briyani, Batu Caves, Selangor",
+        "details": {
+          "address": "43, Jalan SG 10/4, Taman Sri Gombak, 68100 Batu Caves, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2493682,101.6962372"
+        }
+      },
+      {
+        "name": "Bangunan Darul Ehsan, Shah Alam, Selangor",
+        "details": {
+          "address": "14, Jalan Indah, Seksyen 14, 40000 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0747678,101.5179483"
+        }
+      },
+      {
+        "name": "Restoran Fatimah Ghous, Ampang, Selangor",
+        "details": {
+          "address": "Jalan Mewah 4, Taman Ampang Mewah, 68000 Ampang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1444052,101.7604707"
+        }
+      },
+      {
+        "name": "Ecumenical Center, Petaling Jaya, Selangor",
+        "details": {
+          "address": "26, Jln Profesor Diraja Ungku Aziz, Pjs 11, 46200 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.112831,101.6512186"
+        }
+      },
+      {
+        "name": "Church of St. Francis Xavier's, Petaling Jaya, Selangor",
+        "details": {
+          "address": "135, Jalan Gasing, Seksyen 10, 46000 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1088687,101.6525786"
+        }
+      },
+      {
+        "name": "Sunway Pyramid, Petaling Jaya, Selangor",
+        "details": {
+          "address": "3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0727824,101.6075529"
+        }
+      },
+      {
+        "name": "DIB RESTAURANT, Petaling Jaya, Selangor",
+        "details": {
+          "address": "1st Floor, Menara Gamuda, Pj Trade Centre, No. 8, Jalan PJU 8/8A, Damansara Perdana, 47820 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.168022,101.6134368"
+        }
+      },
+      {
+        "name": "Medan Selera TK, Pelabuhan Klang, Selangor",
+        "details": {
+          "address": "1, Solok Kapas, Kawasan 13, 42000 Pelabuhan Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0021658,101.4000343"
+        }
+      },
+      {
+        "name": "Taufik & Tailor, Ampang, Selangor",
+        "details": {
+          "address": "1, Jalan Kolam Air Lama A, Ukay Heights, 68000 Ampang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.160902,101.759032"
+        }
+      },
+      {
+        "name": "Yilo Restaurant and Bar Eco Ardence, Shah Alam, Selangor",
+        "details": {
+          "address": "Ardence Lab L28 & L29, Persiaran Setia Alam, Setia Alam, 40170 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0954744,101.4805834"
+        }
+      },
+      {
+        "name": "Mustard Seed House, Petaling Jaya, Selangor",
+        "details": {
+          "address": "117, Jalan 17a/12, Seksyen 17, 46400 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.129751799999999,101.6312511"
+        }
+      },
+      {
+        "name": "Eastern Goh Auto Works, Petaling Jaya, Selangor",
+        "details": {
+          "address": "934, Jalan 17/38, Seksyen 17, 46400 Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.128192,101.6351129"
+        }
+      },
+      {
+        "name": "Food for Hope Foodbank, Subang Jaya, Selangor",
+        "details": {
+          "address": "8G, Jalan USJ 10/1e, Taipan Business Centre, 47620 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.049347199999999,101.5836336"
+        }
+      },
+      {
+        "name": "REXKL, Kuala Lumpur, Selangor",
+        "details": {
+          "address": "80, Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1449923,101.6984469"
+        }
+      }
+    ],
+    "Klang": [
+      {
+        "name": "Pengkalan Polis Marin Port Klang",
+        "details": {
+          "address": "Persiaran Pulau Lumut, 42000 Pelabuhan Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.990601,101.3871672"
+        }
+      },
+      {
+        "name": "Area Klang/Pelabuhan Klang",
+        "details": {
+          "address": "Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.044917,101.4455621"
+        }
+      },
+      {
+        "name": "Area Lembah Klang",
+        "details": {
+          "address": "Klang Valley",
+          "url": "https://www.google.com/maps/dir//2.6817337,101.6612934"
+        }
+      }
+    ],
+    "Ampang": [
+      {
+        "name": "Area Ampang",
+        "details": {
+          "address": "Ampang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.149099,101.7624521"
+        }
+      }
+    ],
+    "Buloh": [
+      {
+        "name": "Area Sungai Buloh",
+        "details": {
+          "address": "Sungai Buloh, Selangor",
+          "url": "https://www.google.com/maps/dir//3.20933,101.5613392"
+        }
+      }
+    ],
+    "Damansara": [
+      {
+        "name": "Area Kota Damansara",
+        "details": {
+          "address": "Kota Damansara, Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1622148,101.5869321"
+        }
+      },
+      {
+        "name": "Area Damansara",
+        "details": {
+          "address": "Damansara, Selangor",
+          "url": "https://www.google.com/maps/dir//3.094094,101.5475409"
+        }
+      }
+    ],
+    "Jaya": [
+      {
+        "name": "Area Petaling Jaya",
+        "details": {
+          "address": "Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1278871,101.5944885"
+        }
+      },
+      {
+        "name": "Area Subang Jaya",
+        "details": {
+          "address": "Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0567333,101.5851192"
+        }
+      }
+    ],
+    "Puchong": [
+      {
+        "name": "Area Puchong",
+        "details": {
+          "address": "Puchong, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0327152,101.618802"
+        }
+      }
+    ],
+    "Alam": [
+      {
+        "name": "Area Shah Alam",
+        "details": {
+          "address": "Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.073281,101.518461"
+        }
+      },
+      {
+        "name": "Area Puncak Alam",
+        "details": {
+          "address": "Puncak Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2260375,101.4477562"
+        }
+      },
+      {
+        "name": "Area Setia Alam",
+        "details": {
+          "address": "Setia Alam, Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1017648,101.4555421"
+        }
+      },
+      {
+        "name": "Area Seksyen 7, Shah Alam",
+        "details": {
+          "address": "Seksyen 7, Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0741068,101.4922193"
+        }
+      },
+      {
+        "name": "Blooming Tots House, Shah Alam",
+        "details": {
+          "address": "2A, Jalan Bunga Cempaka 2/11, Seksyen 2, 40000 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0721627,101.5108918"
+        }
+      },
+      {
+        "name": "Area Bandar Seri Alam",
+        "details": {
+          "address": "Bandar Seri Alam, 81750 Masai, Johor",
+          "url": "https://www.google.com/maps/dir//1.505725,103.874499"
+        }
+      }
+    ],
+    "Kembangan": [
+      {
+        "name": "Area Seri Kembangan",
+        "details": {
+          "address": "Seri Kembangan, Selangor",
+          "url": "https://www.google.com/maps/dir//3.021998,101.7055411"
+        }
+      }
+    ],
+    "Banting": [
+      {
+        "name": "Area Banting",
+        "details": {
+          "address": "Banting, Selangor",
+          "url": "https://www.google.com/maps/dir//2.812098,101.5025551"
+        }
+      }
+    ],
+    "Putrajaya": [
+      {
+        "name": "Area Putrajaya",
+        "details": {
+          "address": "Putrajaya",
+          "url": "https://www.google.com/maps/dir//2.926361,101.696445"
+        }
+      },
+      {
+        "name": "Shell P16, Putrajaya",
+        "details": {
+          "address": "Lot, No. 74, Jalan P16, Presint 16, 62100 Putrajaya, Wilayah Persekutuan Putrajaya",
+          "url": "https://www.google.com/maps/dir//2.9299425,101.7006437"
+        }
+      },
+      {
+        "name": "Shell Presint 18, Putrajaya",
+        "details": {
+          "address": "Jalan P18 N Hsd 8221 Pt 12835, Presint 18, 62100 Putrajaya, Wilayah Persekutuan Putrajaya",
+          "url": "https://www.google.com/maps/dir//2.9132047,101.6885201"
+        }
+      },
+      {
+        "name": "Shell Presint 8, Putrajaya",
+        "details": {
+          "address": "Presint 8, 62000 Putrajaya, Malaysia",
+          "url": "https://www.google.com/maps/dir//2.9334545,101.679211"
+        }
+      },
+      {
+        "name": "PETRONAS - Putrajaya Precint 16, Putrajaya",
+        "details": {
+          "address": "Lot PT 2495, Jalan P16, Presint 16, 62150 Putrajaya, Wilayah Persekutuan Putrajaya",
+          "url": "https://www.google.com/maps/dir//2.9339395,101.7079379"
+        }
+      },
+      {
+        "name": "Petronas Presint 9A, Putrajaya",
+        "details": {
+          "address": "LOT 1442 HS (M, 688, Jalan P9, Presint 9, 62250 Putrajaya, Wilayah Persekutuan Putrajaya",
+          "url": "https://www.google.com/maps/dir//2.936005999999999,101.6730816"
+        }
+      }
+    ],
+    "Cyberjaya": [
+      {
+        "name": "Area Cyberjaya",
+        "details": {
+          "address": "Cyberjaya, Selangor",
+          "url": "https://www.google.com/maps/dir//2.921318,101.6559349"
+        }
+      }
+    ],
+    "Kajang": [
+      {
+        "name": "Area Kajang",
+        "details": {
+          "address": "Kajang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.993518,101.7874058"
+        }
+      }
+    ],
+    "Bangi": [
+      {
+        "name": "Area Bangi",
+        "details": {
+          "address": "Bangi, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9198401,101.780868"
+        }
+      },
+      {
+        "name": "Area Bandar Baru Bangi",
+        "details": {
+          "address": "Bandar Baru Bangi, Selangor",
+          "url": "https://www.google.com/maps/dir//2.961915,101.757051"
+        }
+      }
+    ],
+    "Dengkil": [
+      {
+        "name": "Area Dengkil",
+        "details": {
+          "address": "Dengkil, Selangor",
+          "url": "https://www.google.com/maps/dir//2.85939,101.6789782"
+        }
+      }
+    ],
+    "Perdana": [
+      {
+        "name": "Area Puncak Perdana",
+        "details": {
+          "address": "Puncak Perdana, 40150 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.135469,101.493445"
+        }
+      },
+      {
+        "name": "Area Ukay Perdana",
+        "details": {
+          "address": "Ukay Perdana, 68000 Ampang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.205666,101.777418"
+        }
+      }
+    ],
+    "Cheras": [
+      {
+        "name": "Area Bandar Mahkota Cheras",
+        "details": {
+          "address": "Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+          "url": "https://www.google.com/maps/dir//3.041058,101.7882169"
+        }
+      },
+      {
+        "name": "Area Cheras",
+        "details": {
+          "address": "Cheras, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1068447,101.7259197"
+        }
+      }
+    ],
+    "Sepang": [
+      {
+        "name": "Area Sepang",
+        "details": {
+          "address": "Sepang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.691369,101.7505271"
+        }
+      }
+    ],
+    "Kosas": [
+      {
+        "name": "Area Taman Kosas",
+        "details": {
+          "address": "Taman Kosas, 68000 Ampang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.147904,101.7721879"
+        }
+      }
+    ],
+    "Gombak": [
+      {
+        "name": "Area Gombak",
+        "details": {
+          "address": "Gombak District, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2535016,101.6533256"
+        }
+      }
+    ],
+    "Utama": [
+      {
+        "name": "Area Bandar Utama",
+        "details": {
+          "address": "Bandar Utama, Petaling Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1467185,101.6119073"
+        }
+      }
+    ],
+    "Selayang": [
+      {
+        "name": "Area Selayang",
+        "details": {
+          "address": "68100 Selayang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.263739,101.6538245"
+        }
+      }
+    ],
+    "Caves": [
+      {
+        "name": "Area Batu Caves",
+        "details": {
+          "address": "68100 Batu Caves, Selangor",
+          "url": "https://www.google.com/maps/dir//3.236516,101.6816512"
+        }
+      }
+    ],
+    "Rawang": [
+      {
+        "name": "Area Rawang",
+        "details": {
+          "address": "Rawang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.320482,101.5759238"
+        }
+      }
+    ],
+    "Balakong": [
+      {
+        "name": "Area Balakong",
+        "details": {
+          "address": "Balakong, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0256822,101.738147"
+        }
+      }
+    ],
+    "Serdang": [
+      {
+        "name": "Area Serdang",
+        "details": {
+          "address": "Serdang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9891684,101.7125228"
+        }
+      }
+    ],
+    "Antarabangsa": [
+      {
+        "name": "Area Bukit Antarabangsa",
+        "details": {
+          "address": "Bukit Antarabangsa, 68000 Ampang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.186191,101.770358"
+        }
+      }
+    ],
+    "Keramat": [
+      {
+        "name": "Area Lembah Keramat",
+        "details": {
+          "address": "Lembah Keramat, Kuala Lumpur, Selangor",
+          "url": "https://www.google.com/maps/dir//3.202292,101.7511492"
+        }
+      }
+    ],
+    "Harun": [
+      {
+        "name": "Area Kampung Dato' Harun",
+        "details": {
+          "address": "Kampung Dato' Harun, 48200 Serendah, Selangor",
+          "url": "https://www.google.com/maps/dir//3.369573,101.608879"
+        }
+      }
+    ],
+    "Indah": [
+      {
+        "name": "Area Pulau Indah",
+        "details": {
+          "address": "42000 Pulau Indah, Selangor",
+          "url": "https://www.google.com/maps/dir//2.9147327,101.3327214"
+        }
+      }
+    ],
+    "Pandamaran": [
+      {
+        "name": "Area Pandamaran",
+        "details": {
+          "address": "Pandamaran, 42000 Port Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0108692,101.4208187"
+        }
+      }
+    ],
+    "Ramal": [
+      {
+        "name": "Area Sungai Ramal",
+        "details": {
+          "address": "Sungai Ramal Luar, 43000 Kajang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.98247,101.7652016"
+        }
+      }
+    ],
+    "Jernang": [
+      {
+        "name": "Area Teras Jernang",
+        "details": {
+          "address": "Kampung Teras Jernang, Kajang, Selangor",
+          "url": "https://www.google.com/maps/dir//2.922517,101.758334"
+        }
+      }
+    ],
+    "Kapar": [
+      {
+        "name": "Area Kapar",
+        "details": {
+          "address": "Kapar, Selangor",
+          "url": "https://www.google.com/maps/dir//3.137271,101.374412"
+        }
+      }
+    ],
+    "Megah": [
+      {
+        "name": "Area Alam Megah",
+        "details": {
+          "address": "Taman Alam Megah, 40400 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//3.003565,101.5599589"
+        }
+      }
+    ],
+    "Heights": [
+      {
+        "name": "Area Putra Heights",
+        "details": {
+          "address": "Putra Heights, 40400 Subang Jaya, Selangor",
+          "url": "https://www.google.com/maps/dir//3.005805,101.5777559"
+        }
+      }
+    ],
+    "Lanchong": [
+      {
+        "name": "Area Bukit Lanchong",
+        "details": {
+          "address": "Bukit Lanchong, 40400 Shah Alam, Selangor",
+          "url": "https://www.google.com/maps/dir//2.983126,101.5621769"
+        }
+      }
+    ],
+    "Raja": [
+      {
+        "name": "Area Bandar Bukit Raja",
+        "details": {
+          "address": "Bandar Bukit Raja, Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0874456,101.4333364"
+        }
+      },
+      {
+        "name": "Area Kota Raja",
+        "details": {
+          "address": "Jalan Kota Raja, Kawasan 1, 41000 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.0281624,101.4632586"
+        }
+      }
+    ],
+    "Meru": [
+      {
+        "name": "Area Meru",
+        "details": {
+          "address": "Meru, 41050 Klang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.1334027,101.4410127"
+        }
+      }
+    ],
+    "Bernam": [
+      {
+        "name": "Area Sabak Bernam",
+        "details": {
+          "address": "45400 Sabak, Selangor",
+          "url": "https://www.google.com/maps/dir//3.769601,100.9836551"
+        }
+      }
+    ],
+    "Besar": [
+      {
+        "name": "Area Sungai Besar",
+        "details": {
+          "address": "45400 Sungai Besar, Selangor",
+          "url": "https://www.google.com/maps/dir//3.675398,100.9857899"
+        }
+      },
+      {
+        "name": "Area Padang Besar",
+        "details": {
+          "address": "Padang Besar, Perlis",
+          "url": "https://www.google.com/maps/dir//6.662622,100.3216651"
+        }
+      }
+    ],
+    "Karang": [
+      {
+        "name": "Area Tanjung Karang",
+        "details": {
+          "address": "Tanjung Karang, Selangor",
+          "url": "https://www.google.com/maps/dir//3.426409,101.1767141"
+        }
+      }
+    ],
+    "Pandan": [
+      {
+        "name": "Area Pandan",
+        "details": {
+          "address": "No.G, Jalan Pandan Prima 2, Dataran Pandan Prima, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1417307,101.7418189"
+        }
+      }
+    ],
+    "Langat": [
+      {
+        "name": "Area Hulu Langat",
+        "details": {
+          "address": "Hulu Langat, Selangor",
+          "url": "https://www.google.com/maps/dir//3.113117,101.815673"
+        }
+      },
+      {
+        "name": "Area Kuala Langat",
+        "details": {
+          "address": "Kuala Langat District, Selangor",
+          "url": "https://www.google.com/maps/dir//2.8038283,101.4950699"
+        }
+      }
+    ],
+    "Lumpur": [
+      {
+        "name": "Petronas Kepong Industrial Park, Kuala Lumpur",
+        "details": {
+          "address": "Lot 2838, Persiaran Kip Utama, Parcel 1, Kepong Industrial Park, 52100 Kuala Lumpur, Selangor",
+          "url": "https://www.google.com/maps/dir//3.2041863,101.6080749"
+        }
+      },
+      {
+        "name": "PETRONAS - East West Link, Kuala Lumpur",
+        "details": {
+          "address": "Lot PT 8060 Lebuhraya Hubungan Timur - Barat Sg. Besi Cheras, 57100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.091453,101.711282"
+        }
+      },
+      {
+        "name": "Shell Station, Kepong, Kuala Lumpur",
+        "details": {
+          "address": "Persiaran Perdana, 1022, Persiaran Cemara, Desa Aman Puri, 47000 Kuala Lumpur, Selangor",
+          "url": "https://www.google.com/maps/dir//3.208268599999999,101.6147107"
+        }
+      },
+      {
+        "name": "Pinto Thai Rice Pot, Wangsa Maju, Kuala Lumpur",
+        "details": {
+          "address": "Lot G-3 , Seasons Garden Residences, Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1874387,101.7342769"
+        }
+      },
+      {
+        "name": "Baan Thai 1 Seafood Restaurant, Cheras, Kuala Lumpur",
+        "details": {
+          "address": "4, Jalan Pudu Ulu, Cheras Batu 3, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1208707,101.7294627"
+        }
+      },
+      {
+        "name": "Z Twin Workshop, Wangsa Maju, Kuala Lumpur",
+        "details": {
+          "address": "Unit 33 1 & 35, 1, Jln Wangsa Delima 2A, Pusat Bandar Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1990104,101.7450351"
+        }
+      },
+      {
+        "name": "Runchit, Wangsa Maju, Kuala Lumpur",
+        "details": {
+          "address": "19, Jln 2/27E, Seksyen 10 Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1894317,101.7362438"
+        }
+      },
+      {
+        "name": "Klinik Dr Alyna, Wangsa Maju, Kuala Lumpur",
+        "details": {
+          "address": "G-09, Wangsa 118, Jalan Wangsa Delima, Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1964074,101.741228"
+        }
+      },
+      {
+        "name": "Temerloh Catering Signature, TTDI, Kuala Lumpur",
+        "details": {
+          "address": "80, Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 TTDI, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1524251,101.6210888"
+        }
+      },
+      {
+        "name": "Malakat Grocer @ Alam Damai, Cheras, Kuala Lumpur",
+        "details": {
+          "address": "100, Jln Damai Raya 2, Alam Damai, 56000 Cheras, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.066317,101.743401"
+        }
+      },
+      {
+        "name": "Shell Station, Kuala Lumpur",
+        "details": {
+          "address": "Jalan Teknologi 8, North South Expressway 8, 57100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.055546699999999,101.7043521"
+        }
+      },
+      {
+        "name": "Champs Masakan Melayu, Kuala Lumpur",
+        "details": {
+          "address": "29-G Jalan Dwitasik Dataran Dwitasik, Bandar Sri Permaisuri, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.100948,101.7130948"
+        }
+      },
+      {
+        "name": "Area Kuala Lumpur",
+        "details": {
+          "address": "Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.139003,101.686855"
+        }
+      },
+      {
+        "name": "BHPetrol Taman Desa Melawati, Kuala Lumpur",
+        "details": {
+          "address": "Jalan 6-4, Melawati Mukim, off, Jln Lingkaran Tengah 2, Taman Desa Melawati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.2202099,101.7356859"
+        }
+      },
+      {
+        "name": "Pejabat Ahli Parlimen Lembah Pantai, Kuala Lumpur",
+        "details": {
+          "address": "Unit 1-13, Centrio, No. 1, Jalan Pantai Murni, Pantai Hillpark, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1075863,101.6659077"
+        }
+      },
+      {
+        "name": "Masjid at-Taqwa, Kuala Lumpur",
+        "details": {
+          "address": "Taman Tun Dr Ismail, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+          "url": "https://www.google.com/maps/dir//3.145397,101.629178"
+        }
+      },
+      {
+        "name": "Shell KESAS (Menuju ke KL), Kuala Lumpur",
+        "details": {
+          "address": "Shah Alam Expressway Jalan Puchong, Kaw, R&r Kinrara L/raya, KESAS, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.0670375,101.6535488"
+        }
+      },
+      {
+        "name": "DAP Kepong 甲洞行动党, Kepong, Kuala Lumpur",
+        "details": {
+          "address": "17, Floor G Jalan 2/33b off jalan kepong, BT6, 1/2, section, Mwe Kepong Commercial Park, 52100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.2135351,101.6411935"
+        }
+      },
+      {
+        "name": "Sundaydo HQ, Kuala Lumpur",
+        "details": {
+          "address": "No 2, Jalan H 3, Taman Melawati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.2273836,101.744712"
+        }
+      },
+      {
+        "name": "PETRONAS Bandar Tun Razak, Kuala Lumpur",
+        "details": {
+          "address": "Petronas, Bandar Tasek Selatan, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.077702,101.7136732"
+        }
+      },
+      {
+        "name": "Petronas Jalan Kuching, Kuala Lumpur",
+        "details": {
+          "address": "Kawasan Perusahaan Segambut, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.18744,101.6703806"
+        }
+      },
+      {
+        "name": "Petronas Taman Setiawangsa, Kuala Lumpur",
+        "details": {
+          "address": "16794, Jln Bukit Setiawangsa, Taman Setiawangsa, 54200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1777294,101.7435244"
+        }
+      },
+      {
+        "name": "Happy Cafe, Kuala Lumpur",
+        "details": {
+          "address": "Menara Polo Proshop, Jalan 2/76E Desa Pandan, Kampung Pandan, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.150654599999999,101.7390395"
+        }
+      },
+      {
+        "name": "Shell Taman Danau Desa, Kuala Lumpur",
+        "details": {
+          "address": "Jalan 2-109e 2-109e Danau Desa Lama, Jln Klang Lama, Taman Danau Desa, 58100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.100621,101.686117"
+        }
+      },
+      {
+        "name": "Pejabat Ahli Parlimen Seputeh, Kuchai Entreprenuers Park, Kuala Lumpur",
+        "details": {
+          "address": "No. 28-3A, 4th Floor, Jalan 1/116b, Sri Desa Entrepreneurs Park, Wilayah, Persekutuan, Kuchai Entrepreneurs Park, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.086091,101.689896"
+        }
+      },
+      {
+        "name": "The One Frozen Distributor, Kuala Lumpur",
+        "details": {
+          "address": "L1-22 Business Plaza, Jalan Seri Sentosa 8a, Taman Sri Sentosa, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.0731815,101.6526263"
+        }
+      },
+      {
+        "name": "PPR Desa Rejang, Kuala Lumpur",
+        "details": {
+          "address": "Persiaran Rejang, Taman Setapak Jaya, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.188101499999999,101.7307839"
+        }
+      },
+      {
+        "name": "PPR Pangsapuri Berembang Indah, Kuala Lumpur",
+        "details": {
+          "address": "Jalan Bahagia, Kampung Berembang, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.165199599999999,101.7376893"
+        }
+      },
+      {
+        "name": "Golden Potato Food Truck, Pandan Indah, Kuala Lumpur",
+        "details": {
+          "address": "Pandan Indah, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1316536,101.7529997"
+        }
+      },
+      {
+        "name": "Dapur Jalanan, Bangsar, Kuala Lumpur",
+        "details": {
+          "address": "52, Jalan Kemuja, Bangsar, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1284888,101.6789089"
+        }
+      },
+      {
+        "name": "Buku Jalanan Chow Kit, Kuala Lumpur",
+        "details": {
+          "address": "54A, Lorong Haji Taib 1, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.162602199999999,101.6973024"
+        }
+      },
+      {
+        "name": "The Gudang, Kuala Lumpur",
+        "details": {
+          "address": "Jln Gombak, Taman Setapak, 53000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.2088888,101.7055186"
+        }
+      },
+      {
+        "name": "Soul Sacrifice, Kuala Lumpur",
+        "details": {
+          "address": "38, Jalan 4/76c, Desa Pandan, 55100 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1485917,101.7374881"
+        }
+      },
+      {
+        "name": "Elegant Clinic, Kuala Lumpur",
+        "details": {
+          "address": "A-G-5 Kuchai Exchange, no 43, Jalan Kuchai Maju 13, Kuchai Entrepreneurs Park, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.085475,101.6930131"
+        }
+      },
+      {
+        "name": "LOCO TTDI, Kuala Lumpur",
+        "details": {
+          "address": "11, Jalan Wan Kadir 2, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.139343,101.6290656"
+        }
+      }
+    ],
+    "Bangsar": [
+      {
+        "name": "Area Bangsar",
+        "details": {
+          "address": "Bangsar, 59000 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.12901,101.6797838"
+        }
+      }
+    ],
+    "Ismail": [
+      {
+        "name": "Area Taman Tun Dr Ismail",
+        "details": {
+          "address": "Taman Tun Dr Ismail, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.146122,101.6255459"
+        }
+      }
+    ],
+    "Segambut": [
+      {
+        "name": "Area Segambut",
+        "details": {
+          "address": "Segambut, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.191726000000001,101.6733869"
+        }
+      }
+    ],
+    "Sinar": [
+      {
+        "name": "Area Sri Sinar",
+        "details": {
+          "address": "Taman Sri Sinar, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.186905,101.6507999"
+        }
+      }
+    ],
+    "Kepong": [
+      {
+        "name": "Area Kepong",
+        "details": {
+          "address": "Kepong, 52100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.213966,101.6355931"
+        }
+      }
+    ],
+    "Brickfields": [
+      {
+        "name": "Area Brickfields",
+        "details": {
+          "address": "Brickfields, Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.129225,101.6861389"
+        }
+      }
+    ],
+    "Maju": [
+      {
+        "name": "Area Wangsa Maju",
+        "details": {
+          "address": "Wangsa Maju, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.203764,101.7367351"
+        }
+      }
+    ],
+    "South": [
+      {
+        "name": "Area Bangsar South",
+        "details": {
+          "address": "Bangsar South, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1106019,101.6662729"
+        }
+      }
+    ],
+    "Lama": [
+      {
+        "name": "Area Jalan Klang Lama",
+        "details": {
+          "address": "Jln Klang Lama, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.0976416,101.6757746"
+        }
+      }
+    ],
+    "Sentul": [
+      {
+        "name": "Area Sentul",
+        "details": {
+          "address": "Sentul, Kuala Lumpur, Federal Territory of Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.2066139,101.6820313"
+        }
+      }
+    ],
+    "Seputeh": [
+      {
+        "name": "Area Seputeh",
+        "details": {
+          "address": "Seputeh, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.115003999999999,101.679651"
+        }
+      }
+    ],
+    "Baiduri": [
+      {
+        "name": "Area Taman Desa Baiduri",
+        "details": {
+          "address": "Taman Desa Baiduri, 43200 Kuala Lumpur, Selangor",
+          "url": "https://www.google.com/maps/dir//3.04775,101.748685"
+        }
+      }
+    ],
+    "(KLBC)": [
+      {
+        "name": "Kuala Lumpur Baptist Church (KLBC)",
+        "details": {
+          "address": "70, Changkat Bukit Bintang, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+          "url": "https://www.google.com/maps/dir//3.1467706,101.709943"
+        }
+      }
+    ],
+    "Kedah": [
+      {
+        "name": "Nansha Auto Garage, Kulim, Kedah",
+        "details": {
+          "address": "Jalan Taman Ihsan, Kampung Sungai Badak, 09000 Kulim, Kedah",
+          "url": "https://www.google.com/maps/dir//5.404139,100.5531229"
+        }
+      },
+      {
+        "name": "SARANG HUB & CAFE, Alor Setar, Kedah",
+        "details": {
+          "address": "138, Jalan Darul Aman, Kampung Lubok Peringgi, 05100 Alor Setar, Kedah",
+          "url": "https://www.google.com/maps/dir//6.1292614,100.365509"
+        }
+      },
+      {
+        "name": "Imanaina Frozen & Grocery, Kulim, Kedah",
+        "details": {
+          "address": "No. 59, Persiaran 1 Kulim Avenue, Park, Taman Kulim Hi-tech, 09000 Kulim, Kedah",
+          "url": "https://www.google.com/maps/dir//5.3877513,100.5705704"
+        }
+      },
+      {
+        "name": "Area Kedah",
+        "details": {
+          "address": "Kedah",
+          "url": "https://www.google.com/maps/dir//6.1183964,100.3684595"
+        }
+      },
+      {
+        "name": "Area Kuala Kedah",
+        "details": {
+          "address": "Kuala Kedah, Kedah",
+          "url": "https://www.google.com/maps/dir//6.105551999999999,100.291428"
+        }
+      },
+      {
+        "name": "Suhaili Optometris, Alor Setar, Kedah",
+        "details": {
+          "address": "56 GF KOMPLEKS SULTAN ABDUL HAMID, Persiaran Sultan Abdul Hamid, JALAN PEGAWAI, 05050 Alor Setar, Kedah",
+          "url": "https://www.google.com/maps/dir//6.109138899999999,100.361486"
+        }
+      },
+      {
+        "name": "Nurha Mart, Kulim, Kedah",
+        "details": {
+          "address": "Kampung Kelang Lama, 09000 Kulim, Kedah",
+          "url": "https://www.google.com/maps/dir//5.390528,100.5638815"
+        }
+      },
+      {
+        "name": "Petronas Taman Tengku Maheran, Jitra, Kedah",
+        "details": {
+          "address": "Lot No. 4606, GRN 1277723, Bandar, Bandar Darulaman, 06000 Jitra, Kedah",
+          "url": "https://www.google.com/maps/dir//6.2399385,100.4193286"
+        }
+      },
+      {
+        "name": "Petronas Jitra, Kedah",
+        "details": {
+          "address": "Jalan Jitra, Taman Bahagia, 06000 Jitra, Kedah",
+          "url": "https://www.google.com/maps/dir//6.2557119,100.4202778"
+        }
+      },
+      {
+        "name": "PETRONAS NGV Sg Kob, Karangan, Kedah",
+        "details": {
+          "address": "Petronas, 5840, Jln Kulim-Mahang, Kampung Jangkang, 09700 Karangan, Kedah",
+          "url": "https://www.google.com/maps/dir//5.427218600000001,100.6389003"
+        }
+      },
+      {
+        "name": "9, Lorong KTC 2/1, Kulim, Kedah",
+        "details": {
+          "address": "9, Lorong KTC 2/1, Taman Senangin, 09000 Kulim, Kedah",
+          "url": "https://www.google.com/maps/dir//5.4039074,100.5654047"
+        }
+      },
+      {
+        "name": "Klinik V Care, Sungai Petani, Kedah",
+        "details": {
+          "address": "154, Jalan Kelab Cinta Sayang, Taman Ria Jaya, 08000 Sungai Petani, Kedah",
+          "url": "https://www.google.com/maps/dir//5.653102800000001,100.5135269"
+        }
+      }
+    ],
+    "Budiman": [
+      {
+        "name": "Area Taman Budiman",
+        "details": {
+          "address": "Taman Budiman, 05400 Alor Setar, Kedah",
+          "url": "https://www.google.com/maps/dir//6.083691900000001,100.3659308"
+        }
+      }
+    ],
+    "Tandop": [
+      {
+        "name": "Area Tandop",
+        "details": {
+          "address": "Tandop, 05400 Alor Setar, Kedah",
+          "url": "https://www.google.com/maps/dir//6.079578,100.3663141"
+        }
+      }
+    ],
+    "Setar": [
+      {
+        "name": "Area Alor Setar",
+        "details": {
+          "address": "Alor Setar, Kedah",
+          "url": "https://www.google.com/maps/dir//6.1263074,100.3671695"
+        }
+      }
+    ],
+    "Petani": [
+      {
+        "name": "Area Sungai Petani",
+        "details": {
+          "address": "Sungai Petani, Kedah",
+          "url": "https://www.google.com/maps/dir//5.643589,100.4894179"
+        }
+      }
+    ],
+    "Sena": [
+      {
+        "name": "Area Pokok Sena",
+        "details": {
+          "address": "Pokok Sena, Kedah",
+          "url": "https://www.google.com/maps/dir//6.167317,100.519358"
+        }
+      }
+    ],
+    "Ketil": [
+      {
+        "name": "Area Kuala Ketil",
+        "details": {
+          "address": "Kuala Ketil, Kedah",
+          "url": "https://www.google.com/maps/dir//5.605181,100.651153"
+        }
+      }
+    ],
+    "Tunjang": [
+      {
+        "name": "Area Tunjang",
+        "details": {
+          "address": "Tunjang, Kedah",
+          "url": "https://www.google.com/maps/dir//6.299195999999999,100.3441758"
+        }
+      }
+    ],
+    "Kangar": [
+      {
+        "name": "Area Kangar",
+        "details": {
+          "address": "Kangar, Perlis",
+          "url": "https://www.google.com/maps/dir//6.440633,100.1983709"
+        }
+      }
+    ],
+    "Arau": [
+      {
+        "name": "Area Arau",
+        "details": {
+          "address": "Arau, Perlis",
+          "url": "https://www.google.com/maps/dir//6.429708,100.2698471"
+        }
+      }
+    ],
+    "Langkawi": [
+      {
+        "name": "Area Langkawi",
+        "details": {
+          "address": "Langkawi, 07000 Langkawi, Kedah",
+          "url": "https://www.google.com/maps/dir//6.35,99.8"
+        }
+      }
+    ],
+    "Jerlun": [
+      {
+        "name": "Area Jerlun",
+        "details": {
+          "address": "Jerlun, Ayer Hitam, Kedah",
+          "url": "https://www.google.com/maps/dir//6.2329933,100.2487967"
+        }
+      }
+    ],
+    "Pasu": [
+      {
+        "name": "Area Kubang Pasu",
+        "details": {
+          "address": "Kubang Pasu, Kedah",
+          "url": "https://www.google.com/maps/dir//6.267335099999999,100.4258312"
+        }
+      }
+    ],
+    "Terap": [
+      {
+        "name": "Area Padang Terap",
+        "details": {
+          "address": "Padang Terap District, Kedah",
+          "url": "https://www.google.com/maps/dir//6.2567642,100.6110339"
+        }
+      }
+    ],
+    "Pendang": [
+      {
+        "name": "Area Pendang",
+        "details": {
+          "address": "Pendang, Kedah",
+          "url": "https://www.google.com/maps/dir//5.993039,100.4773388"
+        }
+      }
+    ],
+    "Jerai": [
+      {
+        "name": "Area Jerai",
+        "details": {
+          "address": "Mount Jerai, 08300 Yan, Kedah",
+          "url": "https://www.google.com/maps/dir//5.787500000000001,100.4338889"
+        }
+      }
+    ],
+    "Sik": [
+      {
+        "name": "Area Sik",
+        "details": {
+          "address": "Sik, Kedah",
+          "url": "https://www.google.com/maps/dir//5.818345,100.743021"
+        }
+      }
+    ],
+    "Merbok": [
+      {
+        "name": "Area Merbok",
+        "details": {
+          "address": "Merbok, Kedah",
+          "url": "https://www.google.com/maps/dir//5.7005238,100.4201042"
+        }
+      }
+    ],
+    "Baling": [
+      {
+        "name": "Area Baling",
+        "details": {
+          "address": "Baling, Kedah",
+          "url": "https://www.google.com/maps/dir//5.675547,100.9168139"
+        }
+      }
+    ],
+    "Serai": [
+      {
+        "name": "Area Padang Serai",
+        "details": {
+          "address": "Padang Serai, Kedah",
+          "url": "https://www.google.com/maps/dir//5.512506999999999,100.555641"
+        }
+      }
+    ],
+    "Baharu": [
+      {
+        "name": "Area Kulim Bandar Baharu",
+        "details": {
+          "address": "Jalan Sultan Badlishah, Kawasan Perusahaan Kulim, 09000 Kulim, Kedah",
+          "url": "https://www.google.com/maps/dir//5.3988447,100.5584922"
+        }
+      }
+    ],
+    "Pahang": [
+      {
+        "name": "Pusat Komputer BSSE, Kuantan, Pahang",
+        "details": {
+          "address": "No.39 Tingkat Bawah, Jalan Dato' Wong Ah Jang, 25000 Kuantan, Pahang",
+          "url": "https://www.google.com/maps/dir//3.8082297,103.3215854"
+        }
+      },
+      {
+        "name": "Hospital Jengka, Bandar Tun Razak, Pahang",
+        "details": {
+          "address": "Hospital Jengka, Bandar Jengka Maran, Bandar Jengka, 26400 Bandar Tun Razak, Pahang",
+          "url": "https://www.google.com/maps/dir//3.773127199999999,102.5517065"
+        }
+      },
+      {
+        "name": "PETRONAS Bukit Pelindung, Kuantan, Pahang",
+        "details": {
+          "address": "Lot 27, Seksyen 36 (Lot Lama, Part Of Lot PT 105104, 25250 Kuantan, Pahang",
+          "url": "https://www.google.com/maps/dir//3.8391652,103.3536244"
+        }
+      },
+      {
+        "name": "Petronas Jalan Beserah, Kuantan, Pahang",
+        "details": {
+          "address": "Jalan Beserah, Perkampungan Bayu, 25300 Kuantan, Pahang",
+          "url": "https://www.google.com/maps/dir//3.851722,103.3624667"
+        }
+      },
+      {
+        "name": "Petronas Bandar Kuantan Putri, Kuantan, Pahang",
+        "details": {
+          "address": "No. 2A, Jalan Pekan-Kuantan, Bandar Baru Kuantan Putri, 25150 Kuantan, Pahang",
+          "url": "https://www.google.com/maps/dir//3.736406999999999,103.3068211"
+        }
+      },
+      {
+        "name": "Kuantan Pickers & Kedai Kopi, Kuantan, Pahang",
+        "details": {
+          "address": "22, Jalan Besar, 25000 Kuantan, Pahang",
+          "url": "https://www.google.com/maps/dir//3.8061245,103.3286412"
+        }
+      },
+      {
+        "name": "Café Marion, Balok, Pahang",
+        "details": {
+          "address": "1011, Jalan Kampung Cherating Lama, 26080 Balok, Pahang",
+          "url": "https://www.google.com/maps/dir//4.1268984,103.3949334"
+        }
+      }
+    ],
+    "Kuantan": [
+      {
+        "name": "Area Kuantan",
+        "details": {
+          "address": "Kuantan, Pahang",
+          "url": "https://www.google.com/maps/dir//3.7633859,103.2201828"
+        }
+      }
+    ],
+    "Pekan": [
+      {
+        "name": "Area Pekan",
+        "details": {
+          "address": "Pekan, Pahang",
+          "url": "https://www.google.com/maps/dir//3.492095,103.3895446"
+        }
+      }
+    ],
+    "Ketari": [
+      {
+        "name": "Area Ketari",
+        "details": {
+          "address": "Ketari, 28700 Bentong, Pahang",
+          "url": "https://www.google.com/maps/dir//3.5012387,101.9127001"
+        }
+      }
+    ],
+    "(KOTASAS)": [
+      {
+        "name": "Area Kota Sultan Ahmad Shah (KOTASAS)",
+        "details": {
+          "address": "Jln KS 1/9, Bukit Kuin Satu, Kuantan, Pahang",
+          "url": "https://www.google.com/maps/dir//3.8745235,103.274447"
+        }
+      }
+    ],
+    "Balok": [
+      {
+        "name": "Area Balok",
+        "details": {
+          "address": "Balok, Pahang",
+          "url": "https://www.google.com/maps/dir//3.9909698,103.3761057"
+        }
+      }
+    ],
+    "Bilut": [
+      {
+        "name": "Area Bilut",
+        "details": {
+          "address": "Lurah Bilut, Pahang",
+          "url": "https://www.google.com/maps/dir//3.6736987,101.9114765"
+        }
+      }
+    ],
+    "Temerloh": [
+      {
+        "name": "Area Temerloh",
+        "details": {
+          "address": "Temerloh, Pahang",
+          "url": "https://www.google.com/maps/dir//3.448649,102.4163482"
+        }
+      }
+    ],
+    "Kelantan": [
+      {
+        "name": "Masjid Jubli Perak Sultan Ismail Petra, Rantau Panjang, Kelantan",
+        "details": {
+          "address": "Kampung Banggol Kulim, 17200 Rantau Panjang, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.0150942,101.9826357"
+        }
+      },
+      {
+        "name": "Seksyen 47, Kota Bharu, Kelantan",
+        "details": {
+          "address": "1937, Jln Tok Guru, 15400 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.1322775,102.2566328"
+        }
+      },
+      {
+        "name": "Acu Terra Corner Chicken Chop, Kota Bharu, Kelantan",
+        "details": {
+          "address": "299, Jalan Tengku Mohd Maasum, Bandar Kota Bharu, 15150 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.1041101,102.2529641"
+        }
+      },
+      {
+        "name": "BHPetrol Kg Chicha, Kota Bharu, Kelantan",
+        "details": {
+          "address": "Lot 1422, Kg. Chicha, Kubang Kerian, 16150 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.077324699999999,102.2777567"
+        }
+      },
+      {
+        "name": "BHP Labok, Machang, Kelantan",
+        "details": {
+          "address": "18500 Machang, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.8313451,102.2261065"
+        }
+      },
+      {
+        "name": "BHPetrol Machang, Machang, Kelantan",
+        "details": {
+          "address": "Lot 563, D18 Jalan Pasir Puteh, Pekan Machang, 18500 Machang, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.763652599999999,102.2185021"
+        }
+      },
+      {
+        "name": "Stesen Minyak BHP Selising, Pasir Puteh, Kelantan",
+        "details": {
+          "address": "Selising, 16810 Pasir Puteh, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.891402800000001,102.3359182"
+        }
+      },
+      {
+        "name": "BHP Petrol Peringat, Melor, Kelantan",
+        "details": {
+          "address": "Lot 3085, Jln Pasir Putih, Kampung Wakaf Tok Wali, 16450 Melor, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.004297,102.2898448"
+        }
+      },
+      {
+        "name": "BHP - Wakaf Bharu, Wakaf Bharu, Kelantan",
+        "details": {
+          "address": "Jalan Lama Wakaf Bharu, 16210 Tumpat, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.1196352,102.1990544"
+        }
+      },
+      {
+        "name": "BHPetrol Bandar Baru Tunjung, Pasir Mas, Kelantan",
+        "details": {
+          "address": "PT 1670-A, Jalan Tunjung - Pasir Mas, Bandar Baru Tunjung, 16010 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.0517166,102.222678"
+        }
+      },
+      {
+        "name": "Stesen Minyak BHPetrol Paya Bemban, Kota Bharu, Kelantan",
+        "details": {
+          "address": "Kampung Paya Bemban, 15200 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.126755999999999,102.253037"
+        }
+      },
+      {
+        "name": "BHP Petrol Pasir Mas, Pasir Mas, Kelantan",
+        "details": {
+          "address": "Lot PT 82, Jalan Pasir Pekan, Pekan Pasir Mas, 17000 Pasir Mas, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.046880799999999,102.1497118"
+        }
+      },
+      {
+        "name": "BHPetrol, Jeli, Kelantan",
+        "details": {
+          "address": "Lebuhraya Timur-Barat, Lot 791, Mukim, Kampung Jeli, 17600 Jeli, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.7028891,101.8300942"
+        }
+      },
+      {
+        "name": "BHP Bukit Tandak, Pasir Mas, Kelantan",
+        "details": {
+          "address": "17200 Pasir Mas, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.955381699999999,102.0073869"
+        }
+      },
+      {
+        "name": "Stesen Minyak BHPetrol Kampung Kedai Buloh, Kota Bharu, Kelantan",
+        "details": {
+          "address": "Kampung Kedai Buloh, 15350 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.185802,102.2447131"
+        }
+      },
+      {
+        "name": "BHP Salor, Pasir Mas, Kelantan",
+        "details": {
+          "address": "Jalan Tunjung - Pasir Mas, Kampung Padang Tengah, 15100 Kota Bahru, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.033986099999999,102.2025681"
+        }
+      },
+      {
+        "name": "PETRONAS Pasir Pekan, Kota Bharu, Kelantan",
+        "details": {
+          "address": "Lot 1748, Batu 2 1/2, Pasir Pekan, 16250 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.119044100000001,102.2187301"
+        }
+      },
+      {
+        "name": "PETRONAS Pasir Pekan Hilir, Wakaf Bharu, Kelantan",
+        "details": {
+          "address": "PT3685 Jalan Besar, Bulatan Pasir Pekan, Kampung Pasir Pekan Hilir, 16250 Wakaf Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.117073200000001,102.2236455"
+        }
+      },
+      {
+        "name": "PETRONAS - Pengkalan Kubor, Tumpat, Kelantan",
+        "details": {
+          "address": "Lot 996, Mukim Geting, Pengkalan Kubur, 16200 Tumpat, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.215148900000001,102.1103012"
+        }
+      },
+      {
+        "name": "PETRONAS - Kok Lanas, Ketereh, Kelantan",
+        "details": {
+          "address": "84, Laluan Persekutuan 8, Kok Lanas, 16450 Ketereh, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.909105800000001,102.2454449"
+        }
+      },
+      {
+        "name": "Petronas Bandar Baru Tunjong, Kota Bharu, Kelantan",
+        "details": {
+          "address": "Petronas Bandar Baru Tunjong Lebuhraya, Jalan Pasir Mas, 15100 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.069910999999999,102.231304"
+        }
+      },
+      {
+        "name": "Petronas Guchil, Kuala Krai, Kelantan",
+        "details": {
+          "address": "Lot 2424, Jalan Sultan Yahya Petra, Guchil, 18000 Kuala Krai, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.5435633,102.2002641"
+        }
+      },
+      {
+        "name": "PETRONAS CHETOK, Pasir Mas, Kelantan",
+        "details": {
+          "address": "Jln Pasir Mas - Tanah Merah, 17040 Pasir Mas, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.949094400000001,102.1920663"
+        }
+      },
+      {
+        "name": "PETRONAS - Kampung Gaung, Pasir Mas, Kelantan",
+        "details": {
+          "address": "Lot 599, Ki8, Kampung Gaung, 17000 Pasir Mas, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.023136099999999,102.1170441"
+        }
+      },
+      {
+        "name": "Petronas Machang, Kelantan",
+        "details": {
+          "address": "Lot PT 326, Jalan Besar, Pekan Machang, 18500 Bandar Machang, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.7692424,102.2149634"
+        }
+      },
+      {
+        "name": "PETRONAS Gua Musang, Kelantan",
+        "details": {
+          "address": "Lot 169, Bandar Baru Gua Musang, Bandar Baru Gua Musang, 18300 Gua Musang, Kelantan",
+          "url": "https://www.google.com/maps/dir//4.863430799999999,101.9593484"
+        }
+      },
+      {
+        "name": "Jubilee Antique Cafe, Petron Taman Maju, Kota Bharu, Kelantan",
+        "details": {
+          "address": "4118, Jalan Sultan Yahya Petra, 15200 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.1087109,102.2556572"
+        }
+      },
+      {
+        "name": "KEMUDI TIMUR ELEKTRONIK SDN BHD, Kota Bharu, Kelantan",
+        "details": {
+          "address": "PT 3357, WISMA CHE MINAH, Kubang Kerian, 16150 Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.0569272,102.2808029"
+        }
+      }
+    ],
+    "Bharu": [
+      {
+        "name": "Area Wakaf Bharu",
+        "details": {
+          "address": "Wakaf Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.118857999999999,102.1987148"
+        }
+      }
+    ],
+    "Terengganu": [
+      {
+        "name": "Area Kuala Terengganu",
+        "details": {
+          "address": "Kuala Terengganu, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.329624,103.1370142"
+        }
+      },
+      {
+        "name": "Area Hulu Terengganu",
+        "details": {
+          "address": "Hulu Terengganu District, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.073042399999999,103.0089371"
+        }
+      },
+      {
+        "name": "Petronas Wakaf Baharu, Kuala Terengganu, Terengganu",
+        "details": {
+          "address": "Jalan Gong Badak, Kampung Wakaf Tembesu, 21300 Kuala Terengganu, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.364937299999998,103.0892236"
+        }
+      },
+      {
+        "name": "Petronas Kuala Berang, Terengganu",
+        "details": {
+          "address": "Jalan Ajil - Kuala Berang, Kampung Bukit Tok Bat, 21700 Kuala Berang, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.074131099999999,103.0195435"
+        }
+      },
+      {
+        "name": "Petronas Kerteh 2, Kerteh, Terengganu",
+        "details": {
+          "address": "Lot 872, Jalan Besar, Kg Baru, 24300 Kerteh, Terengganu",
+          "url": "https://www.google.com/maps/dir//4.4816581,103.4407729"
+        }
+      }
+    ],
+    "Bhd": [
+      {
+        "name": "Pusat 3S Mitsubishi Gong Badak - Lajina Motors Sdn Bhd",
+        "details": {
+          "address": "Jalan Tengku Mohamad, 21300 Kuala Terengganu, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.350465999999999,103.1031124"
+        }
+      }
+    ],
+    "Kamaruddin": [
+      {
+        "name": "PROTON 3S CENTER KUALA TERENGGANU - Jalan Kamaruddin",
+        "details": {
+          "address": "Lot 14947, Jln Kuala Berang, Kampung Padang Midin, 21400 Kuala Terengganu, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.3160413,103.1507303"
+        }
+      }
+    ],
+    "Nerus": [
+      {
+        "name": "Area Kuala Nerus",
+        "details": {
+          "address": "Kuala Nerus, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.3678639,103.0472164"
+        }
+      }
+    ],
+    "Berang": [
+      {
+        "name": "Area Kuala Berang",
+        "details": {
+          "address": "Kuala Berang, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.073837,103.0127029"
+        }
+      }
+    ],
+    "Marang": [
+      {
+        "name": "Area Marang",
+        "details": {
+          "address": "Marang, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.207711,103.204944"
+        }
+      }
+    ],
+    "Tumpat": [
+      {
+        "name": "Area Tumpat",
+        "details": {
+          "address": "Tumpat, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.199069,102.169372"
+        }
+      }
+    ],
+    "Chepa": [
+      {
+        "name": "Area Pengkalan Chepa",
+        "details": {
+          "address": "16100 Pengkalan Chepa, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.1524814,102.3063052"
+        }
+      }
+    ],
+    "Mas": [
+      {
+        "name": "Area Pasir Mas",
+        "details": {
+          "address": "Pasir Mas, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.042412,102.142782"
+        }
+      }
+    ],
+    "Panjang": [
+      {
+        "name": "Area Rantau Panjang",
+        "details": {
+          "address": "17200 Rantau Panjang, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.011587599999999,101.9783814"
+        }
+      }
+    ],
+    "Kerian": [
+      {
+        "name": "Area Kubang Kerian",
+        "details": {
+          "address": "Kubang Kerian, Kota Bharu, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.0869673,102.2762529"
+        }
+      },
+      {
+        "name": "Area Kerian",
+        "details": {
+          "address": "Kerian District, Perak",
+          "url": "https://www.google.com/maps/dir//5.0153276,100.5746224"
+        }
+      }
+    ],
+    "Bachok": [
+      {
+        "name": "Area Bachok",
+        "details": {
+          "address": "Bachok, Kelantan",
+          "url": "https://www.google.com/maps/dir//6.047655799999999,102.394478"
+        }
+      }
+    ],
+    "Ketereh": [
+      {
+        "name": "Area Ketereh",
+        "details": {
+          "address": "Ketereh, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.957974,102.249882"
+        }
+      }
+    ],
+    "Merah": [
+      {
+        "name": "Area Tanah Merah",
+        "details": {
+          "address": "Tanah Merah, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.808886999999999,102.1470772"
+        }
+      }
+    ],
+    "Puteh": [
+      {
+        "name": "Area Pasir Puteh",
+        "details": {
+          "address": "Pasir Puteh, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.836163,102.4077409"
+        }
+      }
+    ],
+    "Machang": [
+      {
+        "name": "Area Machang",
+        "details": {
+          "address": "Machang, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.767932999999999,102.2153872"
+        }
+      }
+    ],
+    "Jeli": [
+      {
+        "name": "Area Jeli",
+        "details": {
+          "address": "Jeli, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.700699,101.8431511"
+        }
+      }
+    ],
+    "Krai": [
+      {
+        "name": "Area Kuala Krai",
+        "details": {
+          "address": "Kuala Krai, Kelantan",
+          "url": "https://www.google.com/maps/dir//5.530812999999999,102.2018512"
+        }
+      }
+    ],
+    "Musang": [
+      {
+        "name": "Area Gua Musang",
+        "details": {
+          "address": "18300 Gua Musang, Kelantan",
+          "url": "https://www.google.com/maps/dir//4.884278999999999,101.968178"
+        }
+      }
+    ],
+    "Besut": [
+      {
+        "name": "Area Besut",
+        "details": {
+          "address": "Besut, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.829012,102.5523781"
+        }
+      }
+    ],
+    "Setiu": [
+      {
+        "name": "Area Setiu",
+        "details": {
+          "address": "Setiu District, Terengganu",
+          "url": "https://www.google.com/maps/dir//5.519688899999999,102.7460482"
+        }
+      }
+    ],
+    "Dungun": [
+      {
+        "name": "Area Kuala Dungun",
+        "details": {
+          "address": "Kuala Dungun, Terengganu",
+          "url": "https://www.google.com/maps/dir//4.754875999999999,103.4155861"
+        }
+      }
+    ],
+    "Chukai": [
+      {
+        "name": "Area Chukai",
+        "details": {
+          "address": "Chukai, Terengganu",
+          "url": "https://www.google.com/maps/dir//4.2338358,103.3638015"
+        }
+      }
+    ],
+    "Johor": [
+      {
+        "name": "Restoran Murtabak 30, Bandar Penawar, Johor",
+        "details": {
+          "address": "16, Jalan Dato' Jaafar 24/1, 81930 Bandar Penawar, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5545801,104.2460047"
+        }
+      },
+      {
+        "name": "Lorong 2, Jalan Dato Ali, Pontian, Johor",
+        "details": {
+          "address": "Jalan Dato Ali, Kampung Dalam, 82000 Pontian, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4937813,103.3905467"
+        }
+      },
+      {
+        "name": "Kafe Dulang Ayan, Senai, Johor",
+        "details": {
+          "address": "99, Jalan Impian Senai 1, Taman Impian Senai, 81400 Senai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5939149,103.6471552"
+        }
+      },
+      {
+        "name": "Restoran Shi Hai, Gelang Patah, Johor",
+        "details": {
+          "address": "Lima Kedai, 81300 Skudai, Johor",
+          "url": "https://www.google.com/maps/dir//1.5013517,103.6161499"
+        }
+      },
+      {
+        "name": "Hotlink Setia Indah, Johor Bahru, Johor",
+        "details": {
+          "address": "30, Jalan Setia 3/7, Taman Setia Indah, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5730944,103.7585057"
+        }
+      },
+      {
+        "name": "Jojoe Mixed Rice, Skudai, Johor",
+        "details": {
+          "address": "51, Jalan Kebudayaan 16, Taman Universiti, 81300 Skudai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.539653,103.6309699"
+        }
+      },
+      {
+        "name": "OM PEACE MOLEK, Johor Bahru, Johor",
+        "details": {
+          "address": "47-01&02, Jalan Molek 1/5A, Taman Molek, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5321357,103.7920223"
+        }
+      },
+      {
+        "name": "Flat Larkin Perdana Blok E, Johor Bahru, Johor",
+        "details": {
+          "address": "Blok E, Jalan Susur Larkin Perdana 3, Taman Larkin Perdana, 80350 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4999891,103.7499418"
+        }
+      },
+      {
+        "name": "Family Kitchen, Johor Bahru, Johor",
+        "details": {
+          "address": "9, Jalan Harmonium 35/1, Taman Mount Austin, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5547707,103.7896067"
+        }
+      },
+      {
+        "name": "Vegibest Grocery 蔬菜生鲜, Johor Bahru, Johor",
+        "details": {
+          "address": "Jln Anggerik Emas 1, Taman Anggerik, 81200 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.5417377,103.6876602"
+        }
+      },
+      {
+        "name": "Batter Sweet Bakery, Pontian, Johor",
+        "details": {
+          "address": "46, Lorong Hidayat 5, Taman Hidayat, 81500 Pekan Nanas, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5112358,103.5189044"
+        }
+      },
+      {
+        "name": "eco fruits 益鲜果, Johor Bahru, Johor",
+        "details": {
+          "address": "7, Jalan Setia 3/4, Taman Setia Indah, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5732756,103.7567596"
+        }
+      },
+      {
+        "name": "JJL Steamboat Restaurant, Skudai, Johor",
+        "details": {
+          "address": "45 Jalan mutiara 1/7 Taman mutiara mas Skudai, 81300 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5171515,103.6323795"
+        }
+      },
+      {
+        "name": "Waterland Coin Laundry, Masai, Johor",
+        "details": {
+          "address": "40, Jalan Suria 2, Bandar Baru Seri Alam, 81750 Masai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4954252,103.8740294"
+        }
+      },
+      {
+        "name": "Reunion Telecommunication, Masai, Johor",
+        "details": {
+          "address": "40, Jalan Teratai, Kampung Sepakat, 81750 Masai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4868536,103.8829294"
+        }
+      },
+      {
+        "name": "Nice Vision Optic Johor Jaya, Johor Bahru, Johor",
+        "details": {
+          "address": "No. 32, Jalan Dedap 4, Taman Johor Jaya, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5407456,103.8042666"
+        }
+      },
+      {
+        "name": "Dr Cermin TAMAN RINTING - Windscreen Replacement | Windscreen Repair, Masai, Johor",
+        "details": {
+          "address": "No. 18, Jalan Ara 2, Taman Rinting, 81750 Masai, Taman Rinting, 81750 Pasir Gudang, Johor",
+          "url": "https://www.google.com/maps/dir//1.4922166,103.8738884"
+        }
+      },
+      {
+        "name": "XP Auto Garage, Pulai, Johor",
+        "details": {
+          "address": "28, Jalan Pulai Ria 9, Bandar Baru Kangkar Pulai, 81300 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5642817,103.5864486"
+        }
+      },
+      {
+        "name": "Posstore Perling - Jalan Rawa, Johor Bahru, Johor",
+        "details": {
+          "address": "149, Jalan Rawa, Taman Amira, 81200 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4725982,103.6699016"
+        }
+      },
+      {
+        "name": "Area Johor",
+        "details": {
+          "address": "Johor",
+          "url": "https://www.google.com/maps/dir//1.4853682,103.7618154"
+        }
+      },
+      {
+        "name": "Warung 6 Pintu, Pekan Nanas, Johor",
+        "details": {
+          "address": "Jalan Ulu Choh, Kampung Ulu Choh, 81500 Pekan Nanas, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5273041,103.5442844"
+        }
+      },
+      {
+        "name": "Gurdwara Sahib Muar, Muar, Johor",
+        "details": {
+          "address": "Jalan Mohamadiah, Taman Sri Tanjung, 84000 Muar, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//2.0404983,102.5631991"
+        }
+      },
+      {
+        "name": "KRT Padi Mahsuri, Johor Bahru, Johor",
+        "details": {
+          "address": "Jalan Padi Mahsuri 11, Bandar Baru Uda, 81200 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.494463,103.7185442"
+        }
+      },
+      {
+        "name": "Sebelah Gerai Baryani Tapau Batu Pahat, Johor",
+        "details": {
+          "address": "35, Jalan Parit Besar, 83000 Batu Pahat, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.8660521,102.9563876"
+        }
+      },
+      {
+        "name": "Pusat Khidmat Rakyat Parlimen Muar, Muar, Johor",
+        "details": {
+          "address": "G-6, Lot 3352, Eco Avenue, 1, Jalan Abdul Rahman, Taman Sri Cempaka, 84000 Muar, Johor",
+          "url": "https://www.google.com/maps/dir//2.0274612,102.5720206"
+        }
+      },
+      {
+        "name": "PETRONAS - Semerah, Johor",
+        "details": {
+          "address": "Lot 3302, Pekan, Semerah, 83600 Semerah, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.884487599999999,102.7806737"
+        }
+      },
+      {
+        "name": "Petronas, Batu Pahat, Johor",
+        "details": {
+          "address": "Lot 33878, Jln Kluang, 83000 Batu Pahat, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.8600761,102.9502026"
+        }
+      },
+      {
+        "name": "PETRONAS - Parit Raja, Johor",
+        "details": {
+          "address": "Lot 6595, Mukim, 86400 Parit Raja, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.861024500000001,103.1052924"
+        }
+      },
+      {
+        "name": "Petronas Jalan Rahmat, Batu Pahat, Johor",
+        "details": {
+          "address": "Jln Rahmat, Kampung Pegawai, 83000 Batu Pahat, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.8478021,102.9351551"
+        }
+      },
+      {
+        "name": "PETRONAS - Simpang Kanan 2, Batu Pahat, Johor",
+        "details": {
+          "address": "Lot PTD 26878, Mukim Simpang Kanan, Jalan Kluang, 83000 Batu Pahat, Johor",
+          "url": "https://www.google.com/maps/dir//1.8630806,103.0011008"
+        }
+      },
+      {
+        "name": "Petronas Parit Bintang, Batu Pahat, Johor",
+        "details": {
+          "address": "712, Jln Peserai, Kampung Pegawai, 83000 Batu Pahat, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.856738,102.918816"
+        }
+      },
+      {
+        "name": "Petronas Parit Sulong, Johor",
+        "details": {
+          "address": "Lot 94, Pekan, 83500 Parit Sulong, Johor",
+          "url": "https://www.google.com/maps/dir//1.9789342,102.8807596"
+        }
+      },
+      {
+        "name": "Petronas Tongkang Pechah, Batu Pahat, Johor",
+        "details": {
+          "address": "32, Jalan Tongkang Pechah, Tongkang Pechah, 83010 Batu Pahat, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.9120282,102.9518791"
+        }
+      },
+      {
+        "name": "PETRONAS - Taman Banang Jaya, Batu Pahat, Johor",
+        "details": {
+          "address": "Taman Banang Jaya, 83000 Batu Pahat, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.8146662,102.9559728"
+        }
+      },
+      {
+        "name": "Petronas Jalan Bukit Pasir, Batu Pahat, Johor",
+        "details": {
+          "address": "Lot 44263, Mukim, Jalan Bukit Pasir, Kampung Bukit Pasir, 83000 Batu Pahat, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.8793777,102.9456489"
+        }
+      },
+      {
+        "name": "PETRONAS Jalan Mengkibol, Kluang, Johor",
+        "details": {
+          "address": "Lot 3746, Jalan Mengkibol, Kampung Yap Tau Sah, 86000 Kluang, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//2.0138592,103.3208377"
+        }
+      },
+      {
+        "name": "PETRONAS, Simpang Renggam, Johor",
+        "details": {
+          "address": "Lot 762, Jalan Simpang Renggam, Jalan Johor, 86200 Simpang Renggam, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.8265746,103.3115157"
+        }
+      },
+      {
+        "name": "PETRONAS, Ayer Hitam, Johor",
+        "details": {
+          "address": "Jalan Batu Pahat, Jalan Kluang, 86100 Ayer Hitam, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.9332356,103.1869358"
+        }
+      },
+      {
+        "name": "PETRONAS - Taman Desa Kluang, Kluang, Johor",
+        "details": {
+          "address": "Lot 37211, Jalan Batu Pahat, Taman Desa, 86000 Kluang, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//2.0141954,103.2867806"
+        }
+      },
+      {
+        "name": "PETRONAS - Bandar Tenggara, Johor",
+        "details": {
+          "address": "Lot JTI 59 Bandar Tenggara, Kawasan Industri Bandar Tenggara, 81400 Kulai, Johor",
+          "url": "https://www.google.com/maps/dir//1.8775141,103.6109336"
+        }
+      },
+      {
+        "name": "PETRONAS Bukit Waha, Johor",
+        "details": {
+          "address": "KPF Niaga Petronas Bukit Waha, Felda Bukit Waha, 81900, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.7402606,104.0581422"
+        }
+      },
+      {
+        "name": "PETRONAS Sungai Mas, Bandar Penawar, Johor",
+        "details": {
+          "address": "Pejabat Koperasi, Felda Sungai Mas, 81930 Bandar Penawar, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.608819,104.1533787"
+        }
+      },
+      {
+        "name": "PETRONAS Jalan Tun Sri Lanang, Kota Tinggi, Johor",
+        "details": {
+          "address": "91, Kota Kecil, 81900 Kota Tinggi, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.7361657,103.9080195"
+        }
+      },
+      {
+        "name": "PETRONAS - Taman Sri Saujana, Johor",
+        "details": {
+          "address": "Taman, Persiaran Sri Saujana, Taman Sri Saujana 1, 81900, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.6750606,103.8526816"
+        }
+      },
+      {
+        "name": "PETRONAS, Ulu Tiram, Johor",
+        "details": {
+          "address": "Lot 10872, Batu 13 3/4 Jalan Kota Tinggi-Johor Bahru, 81800 Ulu Tiram, Johor",
+          "url": "https://www.google.com/maps/dir//1.6073795,103.8217701"
+        }
+      },
+      {
+        "name": "Petronas Desaru, Bandar Penawar, Johor",
+        "details": {
+          "address": "Petronas, 805, Jalan Kota Tinggi - Pengerang, 82200 Bandar Penawar, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.572793,104.2049498"
+        }
+      },
+      {
+        "name": "PETRONAS Saleng, Senai, Johor",
+        "details": {
+          "address": "Lot 35579, Pekan Saleng, Kampung Baru Saleng, 81400 Senai, Johor",
+          "url": "https://www.google.com/maps/dir//1.6313023,103.6344033"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Kulai Permai, Kulai, Johor",
+        "details": {
+          "address": "Petronas, Persiaran Sri Putri Utama, Taman Kulai Permai, 81000 Kulai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.6586343,103.5856167"
+        }
+      },
+      {
+        "name": "Petronas Bandar Putra 2, Kulai, Johor",
+        "details": {
+          "address": "Plot 1, PTD 66916, Bandar Putra, Mukim Senai - Kulai, Taman Teok, 81100 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.6506558,103.6274477"
+        }
+      },
+      {
+        "name": "Petronas Jalan Kulai - Kota Tinggi, Kulai, Johor",
+        "details": {
+          "address": "Lot 94525, Jalan Kulai - Kota Tinggi, Taman Mas, 81000 Kulai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.6714963,103.6078298"
+        }
+      },
+      {
+        "name": "Petronas - Taman Jaya Sepakat, Senai, Johor",
+        "details": {
+          "address": "Lot 35578, Taman Jaya Sepakat, Jalan Taman Jaya, Taman Jaya Sepakat, 81400 Senai, Johor",
+          "url": "https://www.google.com/maps/dir//1.5923673,103.6476762"
+        }
+      },
+      {
+        "name": "PETRONAS, Mersing, Johor",
+        "details": {
+          "address": "Lot 1033, Jalan Endau Utama, Kampung Mersing Kanan, 86800 Mersing, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//2.4348233,103.8344921"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Wawasan, Mersing, Johor",
+        "details": {
+          "address": "Taman Wawasan, 86800 Mersing, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//2.4173323,103.8396161"
+        }
+      },
+      {
+        "name": "PETRONAS Benut, Pontian, Johor",
+        "details": {
+          "address": "No. 3, Simpang Tiga, Benut, Benut, 82200 Pontian, Johor",
+          "url": "https://www.google.com/maps/dir//1.6497222,103.2559684"
+        }
+      },
+      {
+        "name": "PETRONAS, Pekan Nenas, Johor",
+        "details": {
+          "address": "Stesyen Minyak Aziz, Ptd 4626, Lebuhraya Skudai - Pontian, Pekan Nenas, 81500 Pekan Nanas, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5088813,103.5076244"
+        }
+      },
+      {
+        "name": "PETRONAS - Jalan Alsagoff, Pontian, Johor",
+        "details": {
+          "address": "8021, Jln. Alsagoff, 82000 Pontian, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4997445,103.3840983"
+        }
+      },
+      {
+        "name": "Petronas Permas Kecil, Kukup, Johor",
+        "details": {
+          "address": "Kampung Permas Kechil, 82300 Kukup, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.3403899,103.4603512"
+        }
+      },
+      {
+        "name": "PETRONAS - Jalan Kluang - Ayer Hitam, Ayer Hitam, Johor",
+        "details": {
+          "address": "Lot PTD 43258, Mukim Kluang, Jalan Ayer Hitam, 86000 Kluang, Johor",
+          "url": "https://www.google.com/maps/dir//1.9255919,103.1833376"
+        }
+      },
+      {
+        "name": "Petronas Parit Yaani, Yong Peng, Johor",
+        "details": {
+          "address": "Jalan Parit Sulong Yong Peng, Kampung Parit Tengah, 83710 Batu Pahat, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.9656262,103.0306136"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Desa Cemerlang, Ulu Tiram, Johor",
+        "details": {
+          "address": "Petronas, Petronas, 84376, Jalan Kota Tinggi, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor",
+          "url": "https://www.google.com/maps/dir//1.5685761,103.8126351"
+        }
+      },
+      {
+        "name": "PETRONAS Kota Masai, Pasir Gudang, Johor",
+        "details": {
+          "address": "PTD 129028, Taman Kota Masai, 81700 Pasir Gudang, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4910849,103.926972"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Pelangi Indah, Ulu Tiram, Johor",
+        "details": {
+          "address": "Petronas, Jalan Keris 37, Taman Pelangi Indah, 81800 Ulu Tiram, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5827774,103.8010239"
+        }
+      },
+      {
+        "name": "PETRONAS Tmn Puteri Wangsa, Ulu Tiram, Johor",
+        "details": {
+          "address": "Stesen Minyak Petronas, Lot. PTD 26080, Petronas, 26080, Jalan Kota Tinggi, Taman Puteri Wangsa, 81800 Ulu Tiram, Johor",
+          "url": "https://www.google.com/maps/dir//1.5723319,103.813149"
+        }
+      },
+      {
+        "name": "Petronas Taman Cahaya Masai, Pasir Gudang, Johor",
+        "details": {
+          "address": "New Lot PTD 160926, HS (D) 338709, Taman Cahaya Masai, 81700 Pasir Gudang, Johor",
+          "url": "https://www.google.com/maps/dir//1.5055965,103.9225038"
+        }
+      },
+      {
+        "name": "Petronas Taman Bukit Dahlia, Pasir Gudang, Johor",
+        "details": {
+          "address": "166495, Jalan Masai Lama, Taman Bukit Dahlia, 81750 Pasir Gudang, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4850399,103.8913757"
+        }
+      },
+      {
+        "name": "Petronas NGV Bandar Seri Alam 2, Masai, Johor",
+        "details": {
+          "address": "111519, Jalan Masai Lama, Bandar Baru Seri Alam, 81750 Masai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.493664,103.8730478"
+        }
+      },
+      {
+        "name": "PETRONAS Lebuh Desa Cemerlang, Ulu Tiram, Johor",
+        "details": {
+          "address": "Lot PTD 177201, Jln Lbh Cemerlang, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor",
+          "url": "https://www.google.com/maps/dir//1.5630491,103.806457"
+        }
+      },
+      {
+        "name": "PETRONAS - Jalan Kota Masai 2, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot 136202, HS(D) 277380, Taman Kota Masai, 81700 Pasir Gudang, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4841012,103.9477069"
+        }
+      },
+      {
+        "name": "Petronas - Permas Jaya, Masai, Johor",
+        "details": {
+          "address": "51, Jalan Permas 4, Bandar Baru Permas Jaya, 81750 Masai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5048694,103.8228002"
+        }
+      },
+      {
+        "name": "PETRONAS - Jalan Bandar, Pasir Gudang, Johor",
+        "details": {
+          "address": "Lot PTD 69990, HS(D) 124966, Mukim Plentong, Jalan Bandar, Kawasan Perindustrian Pasir Gudang, 81700 Pasir Gudang, Johor",
+          "url": "https://www.google.com/maps/dir//1.4700327,103.9051523"
+        }
+      },
+      {
+        "name": "PETRONAS Pasir Putih, Pasir Gudang, Johor",
+        "details": {
+          "address": "Lot PTB 200695, HS(D) 461341, Taman Pasir Putih, 81700 Pasir Gudang, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4737513,103.932715"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Rinting, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot PTD 205161, HSD 484338, Taman Rinting, Mukim Plentong, Taman Rinting, 81750 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.4926628,103.8673958"
+        }
+      },
+      {
+        "name": "PETRONAS Bandar Tiram, Ulu Tiram, Johor",
+        "details": {
+          "address": "LOT 55248, Jalan Kota Tinggi - Johor Bahru, Taman Dato Yahya Shahban, 81800 Ulu Tiram, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5687424,103.8123603"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Desa Jaya, Johor Bahru, Johor",
+        "details": {
+          "address": "18, Jalan Permatang 6, Taman Desa Jaya, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5570412,103.8016928"
+        }
+      },
+      {
+        "name": "Petronas Bukit Indah 1, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot 2595, Jalan Indah 5/3, Bukit Indah 1, 81200 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4845161,103.6483461"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Universiti, Skudai, Johor",
+        "details": {
+          "address": "Lot PTD 44992, Jalan Pendidikan, Taman Universiti, Kawasan Perindustrian Taman Universiti, 81300 Skudai, Johor",
+          "url": "https://www.google.com/maps/dir//1.5410459,103.6282568"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Nusa Perintis, Gelang Patah, Johor",
+        "details": {
+          "address": "Lot PTD 77638, Taman Nusa Perintis, Gelang Patah, Taman Nusa Perintis, 81550 Gelang Patah, Johor",
+          "url": "https://www.google.com/maps/dir//1.4512753,103.5959848"
+        }
+      },
+      {
+        "name": "Petronas Pulai Perdana, Skudai, Johor",
+        "details": {
+          "address": "95, Jalan Pulai Perdana 11, Taman Sri Pulai Perdana, 81110 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5628379,103.6172112"
+        }
+      },
+      {
+        "name": "PETRONAS Skudai R&R, Skudai, Johor",
+        "details": {
+          "address": "Lot 10, Lebuhraya Utara-Selatan, Taman Teknologi Johor, 81400 Senai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.579446,103.6504454"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Nusa Bestari, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot PTD 12351, Taman Tan Sri Ya'akob, 81200 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.4977265,103.6557313"
+        }
+      },
+      {
+        "name": "PETRONAS Jalan Kebudayaan, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot PTD 55821, Jalan Kebudayaan, Taman Universiti, 81300 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5381308,103.6298258"
+        }
+      },
+      {
+        "name": "Petronas Jalan Indah, Johor Bahru, Johor",
+        "details": {
+          "address": "EZ PETROCARE, Lot PTD 142590, Jalan Indah 16/12, Taman Bukit Indah, 81200 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4769286,103.6649416"
+        }
+      },
+      {
+        "name": "Petronas Mutiara Rini, Skudai, Johor",
+        "details": {
+          "address": "PTD 81817, Mutiara Rini, 81300 Skudai, Johor",
+          "url": "https://www.google.com/maps/dir//1.5243954,103.6450767"
+        }
+      },
+      {
+        "name": "PETRONAS SRI ORKID, Skudai, Johor",
+        "details": {
+          "address": "61, Jalan Hang Jebat, Taman Skudai Baru, 81300 Skudai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5077283,103.6394164"
+        }
+      },
+      {
+        "name": "PETRONAS KM 13 Jalan Skudai, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot 1283, Jalan Roda Utama, 81300 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5240744,103.6777951"
+        }
+      },
+      {
+        "name": "Petronas Taman Aman, Senai, Johor",
+        "details": {
+          "address": "Petronas, Petronas, Lebuhraya Senai, Taman Aman, 81400 Senai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.58846,103.6476659"
+        }
+      },
+      {
+        "name": "Petronas Selesa Jaya, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot 22983, Jln Selesa Jaya, Bandar Selesa Jaya, 81300 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4854786,103.6387106"
+        }
+      },
+      {
+        "name": "Petronas Taman Molek, Johor Bahru, Johor",
+        "details": {
+          "address": "PTD 88326, Mukim Plentong, Taman Molek, Taman Molek, 81100 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.5232626,103.7860352"
+        }
+      },
+      {
+        "name": "Petronas Bandar Putra 1, Kulai, Johor",
+        "details": {
+          "address": "Plot 1, PTD 66916, Bandar Putra, Mukim Senai - Kulai, Taman Teok, 81100 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.6390115,103.6257512"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Bayu Puteri, Masai, Johor",
+        "details": {
+          "address": "184, Jalan Bayu Puteri 1, Taman Bayu Puteri, 80150 Masai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4975267,103.7888366"
+        }
+      },
+      {
+        "name": "Petronas Taman Setia Indah 1, Johor Bahru, Johor",
+        "details": {
+          "address": "Jalan Setia 1, Taman Setia Indah, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5695141,103.7547784"
+        }
+      },
+      {
+        "name": "PETRONAS Bandar Putra 3, Kulai, Johor",
+        "details": {
+          "address": "Plot 4, PTD 74299, KM 3, Mukim, Bandar Putra Kulai, 81200 Kulai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.659492,103.6285582"
+        }
+      },
+      {
+        "name": "Petronas Taman Delima NGV, Johor Bahru, Johor",
+        "details": {
+          "address": "LOT PTD 57850, FASA 1, Taman Delima 2, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5365595,103.7623173"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Bayu Senibong, Masai, Johor",
+        "details": {
+          "address": "Lot 173047, JB East Coast Pkwy, Bayu Senibong, 81750 Masai, Johor",
+          "url": "https://www.google.com/maps/dir//1.4937846,103.8006674"
+        }
+      },
+      {
+        "name": "PETRONAS Jalan Rosmerah, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot PTD 52710, Jalan Rosmerah 2/1, Taman Johor Jaya, Mukim Plentong, Taman Johor Jaya, 81100 Johor Bharu, Johor",
+          "url": "https://www.google.com/maps/dir//1.5344672,103.7943693"
+        }
+      },
+      {
+        "name": "PETRONAS Taman Austin Perdana, Johor Bahru, Johor",
+        "details": {
+          "address": "Jalan Austin Perdana 3/8, Taman Austin Perdana, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.547839,103.7869307"
+        }
+      },
+      {
+        "name": "PETRONAS - Taman Daya, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot 436, Jalan Bertam 23, Taman Daya, Jalan Bertam 23, Taman Mount Austin, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.54107,103.7679539"
+        }
+      },
+      {
+        "name": "Petronas Jalan Setia 3, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot 67930, Taman Setia Indah, 81100 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.5745565,103.7588567"
+        }
+      },
+      {
+        "name": "Petronas Lebuhraya Pasir Gudang 1, Masai, Johor",
+        "details": {
+          "address": "PTD 110909 & PTD 110910, Lebuhraya Pasir Gudang, Bandar Baru Kota Puteri, 81750 Masai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5026334,103.8540588"
+        }
+      },
+      {
+        "name": "Petronas Taman Desa Tebrau, Johor Bahru, Johor",
+        "details": {
+          "address": "PTD 93016, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5561309,103.7951816"
+        }
+      },
+      {
+        "name": "PETRONAS Bandar Baru Uda 1, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot 12105, Batu 4 1/2, Skudai Hwy, Bandar Baru Uda, 81200 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.4888661,103.7135014"
+        }
+      },
+      {
+        "name": "Petronas Jalan Datin Halimah, Johor Bahru, Johor",
+        "details": {
+          "address": "Jln Datin Halimah, Larkin, 81200 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4993401,103.7360907"
+        }
+      },
+      {
+        "name": "PETRONAS Jalan Lingkaran Dalam, Johor Bahru, Johor",
+        "details": {
+          "address": "Part of Lot 823, G 72225, Inner Ring Road, Mukim Bandar, Kampung Mahmoddiah, 80100 Johor Bharu, Johor",
+          "url": "https://www.google.com/maps/dir//1.4672946,103.7489782"
+        }
+      },
+      {
+        "name": "Petronas Setia Tropika, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot 131972, Taman, Setia Tropika, 81200 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5458106,103.7156883"
+        }
+      },
+      {
+        "name": "PETRONAS Jalan Bukit Kempas, Johor Bahru, Johor",
+        "details": {
+          "address": "2, Jalan Bukit Kempas 1/18, Taman Bukit Kempas, 81200 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5262294,103.6963443"
+        }
+      },
+      {
+        "name": "PETRONAS KM4 JALAN SALLEH, Muar, Johor",
+        "details": {
+          "address": "LOT 1311 GM 3713, MUKIM BANDAR MUAR,, JALAN SALLEH,, 84000 Muar, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//2.0789912,102.580208"
+        }
+      },
+      {
+        "name": "Petronas Bukit Pasir, Muar, Johor",
+        "details": {
+          "address": "LOT PTD 700 & 770, MUKIM SUNGAI RAYA BUKIT PASIR, Kampung Permatang Pasir, 84300 Muar, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//2.0969823,102.6347414"
+        }
+      },
+      {
+        "name": "Petron Jalan Buloh Kasap, Segamat, Johor",
+        "details": {
+          "address": "11, BATU 1, Jalan Buloh Kasap, Taman Orchid, 85000 Segamat, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//2.5188029,102.80869"
+        }
+      },
+      {
+        "name": "Pasaraya KHJ U Sentral @Masai Night Market, Pasir Gudang, Johor",
+        "details": {
+          "address": "Jalan Serangkai 1, Taman Bukit Dahlia, 81750 Pasir Gudang, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4851338,103.8904936"
+        }
+      },
+      {
+        "name": "Jojoe Mixed Rice, Skudai, Johor",
+        "details": {
+          "address": "51, Jalan Kebudayaan 16, Taman Universiti, 81300 Skudai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.539653,103.6309699"
+        }
+      },
+      {
+        "name": "Man Tou Pu Restaurant, Johor Bahru, Johor",
+        "details": {
+          "address": "127, Jalan Sutera, Taman Sentosa, 80150 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4935071,103.7718093"
+        }
+      },
+      {
+        "name": "Church Of Praise Johor Bahru, Johor",
+        "details": {
+          "address": "43, Jalan Indah 15/3, Taman Bukit Indah, 81200 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.47991,103.657808"
+        }
+      },
+      {
+        "name": "Embrace Hall Music And Art Centre, Johor Bahru, Johor",
+        "details": {
+          "address": "7, Jalan Impian Emas 5/2, Taman Impian Emas, 81300 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5027513,103.6852464"
+        }
+      },
+      {
+        "name": "Sekola Baroka - Tompok Budaya, Johor Bahru, Johor",
+        "details": {
+          "address": "15 ATAS Jalan Dhoby Bandaraya, Bandar Johor Bahru, 80000 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.456893,103.7636996"
+        }
+      },
+      {
+        "name": "Vicoholic Bistro & Cafe, Skudai, Johor",
+        "details": {
+          "address": "24, Jalan Pendekar 11, Taman Ungku Tun Aminah, 81300 Johor Bahru, Taman Ungku Tun Aminah, 81300 Skudai, Johor",
+          "url": "https://www.google.com/maps/dir//1.515071,103.6548887"
+        }
+      },
+      {
+        "name": "新山中华公会 Persekutuan Tiong-Hua Johor Baru (Wisma Tiong Hua), Johor Bahru, Johor",
+        "details": {
+          "address": "7th Floor, 中华大厦, Wisma Tiong-hua, 8, Jalan Keris, Taman Sri Tebrau, 80050 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.4870497,103.769654"
+        }
+      },
+      {
+        "name": "Johor Ancient Temple, Johor Bahru, Johor",
+        "details": {
+          "address": "Lot 653, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4605951,103.7631134"
+        }
+      }
+    ],
+    "Store": [
+      {
+        "name": "KYFruits Austin - Premium Fruits & Gifts Store",
+        "details": {
+          "address": "35, Jalan Mutiara Emas 2A, Taman Mount Austin, 81100 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.5539185,103.784656"
+        }
+      }
+    ],
+    "Studio": [
+      {
+        "name": "Cheese Creative Art Studio",
+        "details": {
+          "address": "53, Jln Setia Tropika 1/8, Taman Setia Tropika, 81200 Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.5469546,103.712647"
+        }
+      }
+    ],
+    "Muar": [
+      {
+        "name": "Area Muar",
+        "details": {
+          "address": "Muar, Johor",
+          "url": "https://www.google.com/maps/dir//2.0630519,102.5848717"
+        }
+      }
+    ],
+    "Ria": [
+      {
+        "name": "Area Taman Megah Ria",
+        "details": {
+          "address": "Taman Megah Ria, 81750 Masai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.490548,103.849429"
+        }
+      }
+    ],
+    "Puteri": [
+      {
+        "name": "Area Cahaya Kota Puteri",
+        "details": {
+          "address": "Cahaya Kota Puteri, 81750 Masai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.489553,103.840515"
+        }
+      }
+    ],
+    "Rinting": [
+      {
+        "name": "Area Taman Rinting",
+        "details": {
+          "address": "Taman Rinting, 81750 Masai, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4861,103.863141"
+        }
+      }
+    ],
+    "Bahru": [
+      {
+        "name": "Area Johor Bahru",
+        "details": {
+          "address": "Johor Bahru, Johor",
+          "url": "https://www.google.com/maps/dir//1.492659,103.7413591"
+        }
+      }
+    ],
+    "Gudang": [
+      {
+        "name": "Area Pasir Gudang",
+        "details": {
+          "address": "Pasir Gudang, Johor",
+          "url": "https://www.google.com/maps/dir//1.470288,103.9029689"
+        }
+      }
+    ],
+    "Masai": [
+      {
+        "name": "Area Masai",
+        "details": {
+          "address": "Masai, Johor",
+          "url": "https://www.google.com/maps/dir//1.486988,103.885528"
+        }
+      }
+    ],
+    "Segamat": [
+      {
+        "name": "Area Segamat",
+        "details": {
+          "address": "Segamat District, Johor",
+          "url": "https://www.google.com/maps/dir//2.50346,102.8207542"
+        }
+      }
+    ],
+    "Ledang": [
+      {
+        "name": "Area Ledang",
+        "details": {
+          "address": "Tangkak District, Johor",
+          "url": "https://www.google.com/maps/dir//2.2684459,102.5387099"
+        }
+      }
+    ],
+    "Renggam": [
+      {
+        "name": "Area Simpang Renggam",
+        "details": {
+          "address": "Simpang Renggam, Johor",
+          "url": "https://www.google.com/maps/dir//1.827292,103.3099852"
+        }
+      }
+    ],
+    "Pahat": [
+      {
+        "name": "Area Batu Pahat",
+        "details": {
+          "address": "Batu Pahat, Johor",
+          "url": "https://www.google.com/maps/dir//1.849442,102.9288341"
+        }
+      }
+    ],
+    "Skudai": [
+      {
+        "name": "Area Skudai",
+        "details": {
+          "address": "Skudai, Johor",
+          "url": "https://www.google.com/maps/dir//1.5343616,103.6594267"
+        }
+      }
+    ],
+    "Kulai": [
+      {
+        "name": "Area Kulai",
+        "details": {
+          "address": "Kulai, Johor",
+          "url": "https://www.google.com/maps/dir//1.662981,103.5999371"
+        }
+      }
+    ],
+    "Bakri": [
+      {
+        "name": "Area Bakri",
+        "details": {
+          "address": "Johor, Muar, Pusat Perdagangan Mega Jln Sakeh, 20, Tkt 2 Jln Mega 1邮政编码: 84000",
+          "url": "https://www.google.com/maps/dir//2.0505846,102.58383"
+        }
+      }
+    ],
+    "": [
+      {
+        "name": "",
+        "details": {
+          "address": "Lot 653, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor Darul Ta'zim",
+          "url": "https://www.google.com/maps/dir//1.4605951,103.7631134"
+        }
+      }
+    ],
+    "Melaka": [
+      {
+        "name": "BUTIK & KAFE CHERRY (RYEEMZ ENTERPRISE), Semabok, Melaka",
+        "details": {
+          "address": "1165-1, Batu 3 1, 2, Jalan Semabok, Kampung Kubu, 75050 Malacca",
+          "url": "https://www.google.com/maps/dir//2.1933548,102.2886238"
+        }
+      },
+      {
+        "name": "Malakat Grocer @ Malakat Mall, Masjid Tanah, Melaka",
+        "details": {
+          "address": "Masjid Tanah, Malacca",
+          "url": "https://www.google.com/maps/dir//2.352279,102.1089262"
+        }
+      },
+      {
+        "name": "PETRONAS Bandar Jasin Bestari, Bemban, Melaka",
+        "details": {
+          "address": "1, Jln Bunga Raya, Bandar Jasin Bestari, 77200 Bemban, Malacca",
+          "url": "https://www.google.com/maps/dir//2.2772466,102.3958084"
+        }
+      },
+      {
+        "name": "PETRONAS Bukit Beruang, Melaka",
+        "details": {
+          "address": "Lot 4157, Bukit Beruang, Taman Kerjasama, 75450 Bukit Beruang, Malacca",
+          "url": "https://www.google.com/maps/dir//2.2468705,102.2738656"
+        }
+      },
+      {
+        "name": "PETRONAS Tangga Batu, Tanjung Kling, Melaka",
+        "details": {
+          "address": "Lot 215, Mukim, Kampung Tangga Batu, 76400 Tanjung Kling, Malacca",
+          "url": "https://www.google.com/maps/dir//2.2532102,102.1532376"
+        }
+      },
+      {
+        "name": "PETRONAS Durian Tunggal, Melaka",
+        "details": {
+          "address": "Km 16, Pekan Durian Tunggal, Taman Tunggal, 76100 Durian Tunggal, Malacca",
+          "url": "https://www.google.com/maps/dir//2.309852,102.2786848"
+        }
+      },
+      {
+        "name": "Pejabat PEMADAM Negeri Melaka, Aras 2, Dewan Hang Tuah, Melaka",
+        "details": {
+          "address": "Jalan Munshi Abdullah, 75300 Melaka",
+          "url": "https://www.google.com/maps/dir//2.201409,102.2479103"
+        }
+      },
+      {
+        "name": "I Kitchen, Melaka",
+        "details": {
+          "address": "No. 79, Jalan TMR 24, Taman Melaka Raya, 75000 Melaka",
+          "url": "https://www.google.com/maps/dir//2.1860982,102.253256"
+        }
+      }
+    ],
+    "Perak": [
+      {
+        "name": "Ewan Garage Motor Sport, Tanjung Malim, Perak",
+        "details": {
+          "address": "Jalan Malim 2, Taman Malim, 35900 Tanjong Malim, Perak",
+          "url": "https://www.google.com/maps/dir//3.697610900000001,101.5253901"
+        }
+      },
+      {
+        "name": "Masjid Raja Nazrin, Ipoh, Perak",
+        "details": {
+          "address": "2987-2989, Hala Rapat Jaya Tambahan 14, Kampung Rapat Jaya Tambahan, 31350 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.5535431,101.0963533"
+        }
+      },
+      {
+        "name": "Masjid Al-Ittihadiah, Ipoh, Perak",
+        "details": {
+          "address": "Jalan Masjid, Kampung Tengku Husin Lama, 30020 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.611062299999999,101.0637729"
+        }
+      },
+      {
+        "name": "Masjid Muhammad Al-Fateh, Ipoh, Perak",
+        "details": {
+          "address": "Taman Jati, 30020 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6596207,101.0761462"
+        }
+      },
+      {
+        "name": "Masjid Al-Muttaqin, Ipoh, Perak",
+        "details": {
+          "address": "Jalan Bukit Meru, Taman Meru, 30020 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.649377299999998,101.0673363"
+        }
+      },
+      {
+        "name": "Masjid Jamek Iskandar Shah, Ipoh, Perak",
+        "details": {
+          "address": "Jalan Rokam, Kampung Sungai Rokam, 31350 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.578056,101.113564"
+        }
+      },
+      {
+        "name": "Surau Nurul Iman, Ipoh, Perak",
+        "details": {
+          "address": "Jalan Cenderawasih 8, Jelapang, 30020 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.628684799999999,101.0632946"
+        }
+      },
+      {
+        "name": "Madrasah Al-mujahideen, Ipoh, Perak",
+        "details": {
+          "address": "Regat Rokam 2, Pekan Razaki, 31350 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.5815595,101.119365"
+        }
+      },
+      {
+        "name": "Surau Nurul Islamiah Taman Meru 2C, Ipoh, Perak",
+        "details": {
+          "address": "28, Persiaran Taman Meru 18, Taman Meru, 30020 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6625937,101.0699081"
+        }
+      },
+      {
+        "name": "Masjid Jamek Chemor, Chemor, Perak",
+        "details": {
+          "address": "Taman Hartawan, 31200 Chemor, Perak",
+          "url": "https://www.google.com/maps/dir//4.717351100000001,101.1207557"
+        }
+      },
+      {
+        "name": "Masjid Jamek Medan Klebang Restu, Chemor, Perak",
+        "details": {
+          "address": "54, Laluan Klebang Restu 16, 31200 Chemor, Perak",
+          "url": "https://www.google.com/maps/dir//4.6836762,101.1270589"
+        }
+      },
+      {
+        "name": "Masjid At-Taiyyibin, Chemor, Perak",
+        "details": {
+          "address": "Masjid At-Taiyyibin, Kampung Tersusun Tanah Hitam, 31200 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.725379999999999,101.1348878"
+        }
+      },
+      {
+        "name": "Masjid Al-Amaniah At-Taiyibah, Chemor, Perak",
+        "details": {
+          "address": "Kampung Seri Klebang, 31200 Chemor, Perak",
+          "url": "https://www.google.com/maps/dir//4.656830300000001,101.0973964"
+        }
+      },
+      {
+        "name": "Masjid Nurul Falah, Chemor, Perak",
+        "details": {
+          "address": "Jalan Klebang Selatan 2/4, Kampung Tersusun Klebang Selatan, 31200 Chemor, Perak",
+          "url": "https://www.google.com/maps/dir//4.6694819,101.108069"
+        }
+      },
+      {
+        "name": "SURAU RAJA HAIRANI TAMAN MERU PERDANA 2, Ipoh, Perak",
+        "details": {
+          "address": "2, LALUAN MERU PERDANA 19, 31200 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.683497799999999,101.091336"
+        }
+      },
+      {
+        "name": "Surau Nurul Kamaliah, Chemor, Perak",
+        "details": {
+          "address": "Kampung Tersusun Tanah Hitam, 31200 Chemor, Perak",
+          "url": "https://www.google.com/maps/dir//4.726069499999999,101.1412108"
+        }
+      },
+      {
+        "name": "Surau Asy-Syakirin, Chemor, Perak",
+        "details": {
+          "address": "Jalan Ipoh Chemor, Taman Bertuah, Perak, Taman Bertuah, 31200 Chemor, Perak",
+          "url": "https://www.google.com/maps/dir//4.6626881,101.103846"
+        }
+      },
+      {
+        "name": "Surau Al-Ridzuaniah, Ipoh, Perak",
+        "details": {
+          "address": "Kampung Tawas Tambahan, 30010 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.650727700000001,101.0931306"
+        }
+      },
+      {
+        "name": "Masjid Idrisiah, Ipoh, Perak",
+        "details": {
+          "address": "Jalan Raja Ariff Shah, Kampung Kuala Pari Tengah, 31450 Menglembu, Perak",
+          "url": "https://www.google.com/maps/dir//4.579257,101.067129"
+        }
+      },
+      {
+        "name": "Masjid Al-Hidayah, Lahat, Perak",
+        "details": {
+          "address": "27, Lintasan Pegoh 3, Taman Pinji Mewah, 31500 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.5342005,101.086169"
+        }
+      },
+      {
+        "name": "Masjid Al-Khairiah, Lahat, Perak",
+        "details": {
+          "address": "Lot 548250, Lorong Kepayang 6, Kampung Kepayang, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6193843,101.0976797"
+        }
+      },
+      {
+        "name": "Surau Al-tolabiah, Ipoh, Perak",
+        "details": {
+          "address": "Kampung Cempaka Sari, 31650 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.5598975,101.0634145"
+        }
+      },
+      {
+        "name": "Surau As-solihin, Menglembu, Perak",
+        "details": {
+          "address": "Hala Kledang 1, Taman Kledang, 31450 Menglembu, Perak",
+          "url": "https://www.google.com/maps/dir//4.5677298,101.0355145"
+        }
+      },
+      {
+        "name": "Surau Falah, Lahat, Perak",
+        "details": {
+          "address": "Laluan Pengkalan Timah 10, Taman Pinji Perdana, 31500 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.524703100000001,101.0686425"
+        }
+      },
+      {
+        "name": "Surau Taman Desa Pakatan (Surau Al-Ikthisom?), Ipoh, Perak",
+        "details": {
+          "address": "Laluan Pengkalan Timur 1, Taman Desa Pakatan, 31650 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.540380499999999,101.0782957"
+        }
+      },
+      {
+        "name": "Surau Darus Salam, Lahat, Perak",
+        "details": {
+          "address": "Desa Pengkalan Bandaraya, Taman Pengkalan Bandaraya, 31500 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.5201639,101.0667479"
+        }
+      },
+      {
+        "name": "Surau Al-ikhlas, Ipoh, Perak",
+        "details": {
+          "address": "11, Persiaran Desa Pinji Utara 6, Desa Pinji, 31650 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.520065,101.0856902"
+        }
+      },
+      {
+        "name": "Masjid Al-Ittihadiah Bandar Baru Putra, Ipoh, Perak",
+        "details": {
+          "address": "Bandar Baru Putra, 31400 Bercham, Perak",
+          "url": "https://www.google.com/maps/dir//4.6610809,101.1459311"
+        }
+      },
+      {
+        "name": "Masjid Al-Ijtimaa'iah, Bercham, Perak",
+        "details": {
+          "address": "Persiaran Bercham Selatan 25, Taman Sri Kurau, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6238169,101.1260702"
+        }
+      },
+      {
+        "name": "Masjid Solatiah, Ipoh, Perak",
+        "details": {
+          "address": "26, Persiaran Wira Jaya Barat 66, Taman Rapat Setia Baru, 31350 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.5754212,101.1325868"
+        }
+      },
+      {
+        "name": "Masjid Muhammadiah (Masjid Cina), Ipoh, Perak",
+        "details": {
+          "address": "Jalan Musim Bunga, Taman Tasek Jaya, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6492827,101.1076471"
+        }
+      },
+      {
+        "name": "MASJID AL MUTTAQIN, Ipoh, Perak",
+        "details": {
+          "address": "Persiaran Hulu Bercham 8, Bandar Baru Putra, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.656388400000001,101.1432329"
+        }
+      },
+      {
+        "name": "Masjid Sultan Yussuf Rapat Setia, Ipoh, Perak",
+        "details": {
+          "address": "Jalan Raja Musa Mahadi, Rapat Setia, 31350 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.571280799999999,101.1252253"
+        }
+      },
+      {
+        "name": "Masjid Al-huda, Ipoh, Perak",
+        "details": {
+          "address": "Laluan Sri Ampang 10, Kampung Sri Ampang, 31350 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.582044999999999,101.1309491"
+        }
+      },
+      {
+        "name": "Masjid Al-Khairiah, Ipoh, Perak",
+        "details": {
+          "address": "Lot 548250, Lorong Kepayang 6, Kampung Kepayang, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6193843,101.0976797"
+        }
+      },
+      {
+        "name": "Masjid Sayyidina Umar Ibni Khattab, Ipoh, Perak",
+        "details": {
+          "address": "Lot 303682, Hala Tambun Permai 6, Kampung Tersusun Batu 4, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6148998,101.1370722"
+        }
+      },
+      {
+        "name": "Masjid Al-hidayah (Masjid Lama), Ipoh, Perak",
+        "details": {
+          "address": "Jalan Besar Tambun, Taman Tambun Permai, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6117161,101.1438289"
+        }
+      },
+      {
+        "name": "Surau Nurul Huda, Ulu Kinta, Perak",
+        "details": {
+          "address": "Kampung Tersusun Batu 6, Perak, Kampung Tersusun Batu 6, 31150 Ulu Kinta, Perak",
+          "url": "https://www.google.com/maps/dir//4.629352699999999,101.1483852"
+        }
+      },
+      {
+        "name": "Surau Al Huda / Surau Sekolah Rendah Agama Rakyat Al Huda, Ulu Kinta, Perak",
+        "details": {
+          "address": "Taman Perpaduan, 31150 Ulu Kinta, Perak",
+          "url": "https://www.google.com/maps/dir//4.6336593,101.1488794"
+        }
+      },
+      {
+        "name": "Surau Al-islah, Tanjung Rambutan, Perak",
+        "details": {
+          "address": "Lebuh Desa Jaya, Taman Desa Jaya, 31400 Tanjung Rambutan, Perak",
+          "url": "https://www.google.com/maps/dir//4.6646583,101.1656078"
+        }
+      },
+      {
+        "name": "Surau Nur Iman, Tanjung Rambutan, Perak",
+        "details": {
+          "address": "Jalan Tanjung Bahagia 3, Taman Bahagia, 31250 Tanjung Rambutan, Perak",
+          "url": "https://www.google.com/maps/dir//4.6923382,101.1541518"
+        }
+      },
+      {
+        "name": "Masjid Ahmadiah, Kampung Kepayang, Simpang Pulai, Perak",
+        "details": {
+          "address": "Jalan Gopeng, Kampung Kepayang, 31350 Kampung Kepayang, Perak",
+          "url": "https://www.google.com/maps/dir//4.5183333,101.1361111"
+        }
+      },
+      {
+        "name": "Masjid Nur Ramadhan, Ipoh, Perak",
+        "details": {
+          "address": "40, Persiaran Seri Raia 2, Kampung Kepayang, 31350 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.508905,101.13958"
+        }
+      },
+      {
+        "name": "SDJ Al Ikhlas, Simpang Pulai, Perak",
+        "details": {
+          "address": "Bandar Pulai Jaya, 31350 Simpang Pulai, Perak",
+          "url": "https://www.google.com/maps/dir//4.5232421,101.1270583"
+        }
+      },
+      {
+        "name": "Area Perak",
+        "details": {
+          "address": "31400 Perak",
+          "url": "https://www.google.com/maps/dir//4.626261,101.1547372"
+        }
+      },
+      {
+        "name": "Masjid Jamek Iskandar Shah, Ipoh, Perak",
+        "details": {
+          "address": "Jalan Rokam, Kampung Sungai Rokam, 31350 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.578056,101.113564"
+        }
+      },
+      {
+        "name": "Imika Empire Sdn Bhd, Ipoh, Perak",
+        "details": {
+          "address": "Jalan Greentown 4, Greentown Nova, 30450 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.601658800000001,101.0942072"
+        }
+      },
+      {
+        "name": "Petronas Kampung Kedah, Parit Buntar, Perak",
+        "details": {
+          "address": "Lot PT 3491, HS(M) 1307, Kampung Kedah, 34200 Parit Buntar, Perak",
+          "url": "https://www.google.com/maps/dir//5.120366499999998,100.4778833"
+        }
+      },
+      {
+        "name": "PETRONAS JALAN SIMPANG, Taiping, Perak",
+        "details": {
+          "address": "Jalan Simpang, Kampung Lombong Bijeh Larut, 34000 Taiping, Perak",
+          "url": "https://www.google.com/maps/dir//4.831851999999999,100.725367"
+        }
+      },
+      {
+        "name": "PETRONAS Gerik, Perak",
+        "details": {
+          "address": "Lot PT 843, Jalan Sultan Iskandar, Pekan Gerik, 33300 Gerik, Perak",
+          "url": "https://www.google.com/maps/dir//5.4264776,101.1275922"
+        }
+      },
+      {
+        "name": "Petronas Manong, Kuala Kangsar, Perak",
+        "details": {
+          "address": "Lot 2503, Mukim Senggang, Pekan Manong, Kampung Suak Petai, 33800 Kuala Kangsar, Perak",
+          "url": "https://www.google.com/maps/dir//4.5971378,100.8813917"
+        }
+      },
+      {
+        "name": "PETRONAS Manjoi, Ipoh, Perak",
+        "details": {
+          "address": "PT 117716, Jalan Raja, Kampung Manjoi, 30020 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6141296,101.0692404"
+        }
+      },
+      {
+        "name": "PETRONAS - Bandar Meru Raya, Ipoh, Perak",
+        "details": {
+          "address": "Lot PT204047, Jalan Jelapang, 30200 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.673882799999999,101.0760138"
+        }
+      },
+      {
+        "name": "PETRONAS - Sunway City, Tambun Ipoh, Ulu Kinta, Perak",
+        "details": {
+          "address": "Lot PT 303545, Sunway City Tambun, Mukim Hulu Kinta, 8a, Jalan Darul Johan, Sunway City Ipoh, 31150 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.620471499999999,101.1478702"
+        }
+      },
+      {
+        "name": "PETRONAS - Jalan Raja Dihilir, Ipoh, Perak",
+        "details": {
+          "address": "Petronas, 87409, Jalan Sultan Azlan Shah Utara, Taman Canning, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.600982399999999,101.1129458"
+        }
+      },
+      {
+        "name": "PETRONAS Batu Gajah Perdana, Pusing, Perak",
+        "details": {
+          "address": "Lot 15613, Persiaran Bg Perdana 1, Taman Batu Gajah Perdana, 31000 Batu Gajah, Perak",
+          "url": "https://www.google.com/maps/dir//4.5036884,101.0230187"
+        }
+      },
+      {
+        "name": "PETRONAS - Mukim Teja, Gopeng, Perak",
+        "details": {
+          "address": "Lot PT 2015, Kampung Tersusun Kampung Pulai, 31600 Gopeng, Perak",
+          "url": "https://www.google.com/maps/dir//4.457306,101.1650652"
+        }
+      },
+      {
+        "name": "Petronas Kampar, Perak",
+        "details": {
+          "address": "49075, Jalan Iskandar, Kampung Baharin Pinji, 31900 Kampar, Perak",
+          "url": "https://www.google.com/maps/dir//4.298649,101.159617"
+        }
+      },
+      {
+        "name": "Petronas UTP, Bota, Perak",
+        "details": {
+          "address": "Petronas UTP, 31750 Bota, Perak",
+          "url": "https://www.google.com/maps/dir//4.380974300000001,100.9799812"
+        }
+      },
+      {
+        "name": "PETRONAS Manjung Point, Seri Manjung, Perak",
+        "details": {
+          "address": "32200 Lumut, Perak",
+          "url": "https://www.google.com/maps/dir//4.2220118,100.6724828"
+        }
+      },
+      {
+        "name": "Petronas Sri Manjung 2, Seri Manjung, Perak",
+        "details": {
+          "address": "Bandar Sri Manjung, 32040 Seri Manjung, Perak",
+          "url": "https://www.google.com/maps/dir//4.195960999999999,100.6656638"
+        }
+      },
+      {
+        "name": "PETRONAS - Pantai Remis, Perak",
+        "details": {
+          "address": "PT 5023, Batu 17, Jalan Pengkalan Baru, Pantai Remis, 34900 Pantai Remis, Perak",
+          "url": "https://www.google.com/maps/dir//4.4689249,100.6327791"
+        }
+      },
+      {
+        "name": "PETRONAS - Slim River, Perak",
+        "details": {
+          "address": "Jalan Bandar Baru Fasa 1, Taman Krishnan, 35800 Slim River, Perak",
+          "url": "https://www.google.com/maps/dir//3.8378521,101.398497"
+        }
+      },
+      {
+        "name": "Bagiruang Ipoh, Perak",
+        "details": {
+          "address": "97-A1, Jalan Kamaruddin Isa, Taman Fair Park, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.6074069,101.0962689"
+        }
+      },
+      {
+        "name": "PPR Taman Bina Jaya, Malim Nawar, Perak",
+        "details": {
+          "address": "Taman Bina Jaya, 31700 Malim Nawar, Perak",
+          "url": "https://www.google.com/maps/dir//4.359926,101.124122"
+        }
+      },
+      {
+        "name": "Sun Heng Curry Noodles, Ipoh, Perak",
+        "details": {
+          "address": "19, Lorong Cecil Rae, Canning Garden, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.602834199999999,101.1094216"
+        }
+      },
+      {
+        "name": "Restoran D'Legasi & Warisan Haji Ismail & Hajjah Murni, Ipoh, Perak",
+        "details": {
+          "address": "Jalan Lang Indah A/1, 31400 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.630973499999999,101.0961891"
+        }
+      }
+    ],
+    "Sembilan": [
+      {
+        "name": "Regina Fresh Fruits, Seremban 2, Negri Sembilan",
+        "details": {
+          "address": "357, Jalan S2 F7, Garden Homes, 70300 Seremban, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.6923814,101.9031463"
+        }
+      },
+      {
+        "name": "Warung Tan Tok Cik, Port Dickson, Negri Sembilan",
+        "details": {
+          "address": "Jalan Prima 3, Lukut Prima, 71010 Port Dickson, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.5619264,101.8104969"
+        }
+      },
+      {
+        "name": "Area Negeri Sembilan",
+        "details": {
+          "address": "Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.7258058,101.9423782"
+        }
+      },
+      {
+        "name": "Klinik Thong, Bahau, Negri Sembilan",
+        "details": {
+          "address": "34, Jalan Besar, 72100 Bahau, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.810304,102.4017774"
+        }
+      },
+      {
+        "name": "Blessing Box @ Balai Raya Taman Bukit Chedang, Seremban, Negri Sembilan",
+        "details": {
+          "address": "Jalan Kenanga 4, Taman Bukit Chedang Phase 1, 70300 Seremban, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.693121000000001,101.9307629"
+        }
+      },
+      {
+        "name": "Blessing Box @ Persatuan Kebajikan Anak-Anak Negeri Sembilan, Nilai, Negri Sembilan",
+        "details": {
+          "address": "19, Jalan Cempaka 24, Desa Cempaka, 71800 Nilai, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.798086,101.758378"
+        }
+      },
+      {
+        "name": "Petronas Bandar Baru Nilai, Nilai, Negri Sembilan",
+        "details": {
+          "address": "Petronas, 9252, Persiaran Negeri, Desa Kolej, 71800 Nilai, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.811278,101.778682"
+        }
+      },
+      {
+        "name": "PETRONAS - Pedas Linggi Layby, Rembau, Negri Sembilan",
+        "details": {
+          "address": "KM 225 Pedas - Linggi Layby, Plus Highway (Northbound), 71300 Rembau, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.4669012,102.1202768"
+        }
+      },
+      {
+        "name": "Petronas Rembau, Negri Sembilan",
+        "details": {
+          "address": "Lot 2509, Jln Seremban - Tampin, 71300 Rembau, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.5899999,102.0971523"
+        }
+      },
+      {
+        "name": "PappaRich Seremban 2, Seremban, Negri Sembilan",
+        "details": {
+          "address": "No. 339 & 340 Jalan 2 B8, Seksyen 8, Seremban 2, 70300 Seremban, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.6957297,101.9096605"
+        }
+      }
+    ],
+    "Shop": [
+      {
+        "name": "一元早餐茶店 One Dollar Shop",
+        "details": {
+          "address": "Business Park, 22, Jalan PPM 14, Plaza Pandan Malim, 75250 Melaka",
+          "url": "https://www.google.com/maps/dir//2.2287124,102.2240083"
+        }
+      }
+    ],
+    "Najah": [
+      {
+        "name": "Surau Madrasah Najah",
+        "details": {
+          "address": "1880, Regat Rapat Jaya 4, Kampung Rapat Jaya, 31350 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.565830999999999,101.1051621"
+        }
+      }
+    ],
+    "Diniyat": [
+      {
+        "name": "Madrasah Pakistani Diniyat",
+        "details": {
+          "address": "No. 231, Regrouping Area, Perak, Sungai Kuang, 31200 Chemor, Perak",
+          "url": "https://www.google.com/maps/dir//4.722950899999999,101.1189979"
+        }
+      }
+    ],
+    "Taiping": [
+      {
+        "name": "Area Taiping",
+        "details": {
+          "address": "Taiping, Perak",
+          "url": "https://www.google.com/maps/dir//4.851932,100.7416339"
+        }
+      }
+    ],
+    "Kamunting": [
+      {
+        "name": "Area Kamunting",
+        "details": {
+          "address": "Kamunting, Perak",
+          "url": "https://www.google.com/maps/dir//4.887377,100.730974"
+        }
+      }
+    ],
+    "Perpaduan": [
+      {
+        "name": "Area Taman Perpaduan",
+        "details": {
+          "address": "Taman Perpaduan, 31400 Ulu Kinta, Perak",
+          "url": "https://www.google.com/maps/dir//4.633592999999999,101.151751"
+        }
+      }
+    ],
+    "Tampin": [
+      {
+        "name": "Area Pekan Tampin",
+        "details": {
+          "address": "2005, Jalan Besar, Kampung Tampin, 73000 Tampin, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.469049499999999,102.231868"
+        }
+      }
+    ],
+    "Rumput": [
+      {
+        "name": "Area Paya Rumput",
+        "details": {
+          "address": "Paya Rumput, 76450, Malacca",
+          "url": "https://www.google.com/maps/dir//2.2937484,102.2147425"
+        }
+      }
+    ],
+    "Buntong": [
+      {
+        "name": "Area Buntong",
+        "details": {
+          "address": "Buntong, 30100 Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.5939877,101.0687336"
+        }
+      }
+    ],
+    "Krubong": [
+      {
+        "name": "Area Krubong",
+        "details": {
+          "address": "Krubong, Malacca",
+          "url": "https://www.google.com/maps/dir//2.2814744,102.2404869"
+        }
+      }
+    ],
+    "Seremban": [
+      {
+        "name": "Area Seremban",
+        "details": {
+          "address": "Seremban, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.725889,101.9378239"
+        }
+      }
+    ],
+    "Tanah": [
+      {
+        "name": "Area Masjid Tanah",
+        "details": {
+          "address": "Masjid Tanah, Malacca",
+          "url": "https://www.google.com/maps/dir//2.352279,102.1089262"
+        }
+      }
+    ],
+    "Gajah": [
+      {
+        "name": "Area Alor Gajah",
+        "details": {
+          "address": "Alor Gajah, Malacca",
+          "url": "https://www.google.com/maps/dir//2.382211,102.2115611"
+        }
+      }
+    ],
+    "Ipoh": [
+      {
+        "name": "Area Ipoh",
+        "details": {
+          "address": "Ipoh, Perak",
+          "url": "https://www.google.com/maps/dir//4.597479,101.090106"
+        }
+      }
+    ],
+    "Senawang": [
+      {
+        "name": "Area Senawang",
+        "details": {
+          "address": "Senawang, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.6858859,101.9833153"
+        }
+      }
+    ],
+    "Tengah": [
+      {
+        "name": "Area Melaka Tengah",
+        "details": {
+          "address": "Melaka Tengah District, Malacca",
+          "url": "https://www.google.com/maps/dir//2.2710512,102.2886898"
+        }
+      }
+    ],
+    "Rakan-Rakan": [
+      {
+        "name": "Klinik Dr Azhar Dan Rakan-Rakan",
+        "details": {
+          "address": "2, ONE AVENUE, 39, Jalan S2 F1, Garden Homes, 70300 Seremban, Negeri Sembilan",
+          "url": "https://www.google.com/maps/dir//2.6926975,101.9056386"
+        }
+      }
+    ],
+    "Sabah": [
+      {
+        "name": "Lorong Dewan, Kota Kinabalu Sabah",
+        "details": {
+          "address": "Lorong Dewan, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.982973599999999,116.0776288"
+        }
+      },
+      {
+        "name": "Area Sabah",
+        "details": {
+          "address": "Sabah",
+          "url": "https://www.google.com/maps/dir//5.978839799999999,116.0753199"
+        }
+      },
+      {
+        "name": "Orange convenient store oka5, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "Plot No. 12, Near Liberty Insurance, Jalan Pasar Baru Kg. Air, Kampung Air, 88000 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.9794921,116.0733921"
+        }
+      },
+      {
+        "name": "Orange Convenient Store 24HR, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "Lot 11-1, Level 1, Block D, Harbour City, Phase 1A, Jalan Pantai, Sembulan, 88000 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.9663183,116.0642981"
+        }
+      },
+      {
+        "name": "Orange Convenient Store 24HR, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "Lot 11-1, Level 1, Block D, Harbour City, Phase 1A, Jalan Pantai, Sembulan, 88000 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.9663183,116.0642981"
+        }
+      },
+      {
+        "name": "Orange Convenience Store 24HR, Putatan, Sabah",
+        "details": {
+          "address": "Lot C14 & G28, Ground Floor, One Place Mall @, Jln Putatan, Bandar Putatan, 88100 Putatan, Sabah",
+          "url": "https://www.google.com/maps/dir//5.892028399999999,116.0474526"
+        }
+      },
+      {
+        "name": "Orange Convenient Store @ Wawasan Plaza, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "Api-api Centre, 88000 Kota Kinabalu, Malaysia",
+          "url": "https://www.google.com/maps/dir//5.973299099999999,116.0682594"
+        }
+      },
+      {
+        "name": "Dr. Joe Travel Cafe @ Inanam, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "Inanam Suria, Block H, Lot 50, Inanam, 88450 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.999936,116.1303706"
+        }
+      },
+      {
+        "name": "Nook Cafe, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "19, Lorong Dewan, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.9834985,116.0779428"
+        }
+      },
+      {
+        "name": "Foodtown Supermarket, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "Lorong Mangga 2, Kolombong/Bdc Industrial Estate, 88450 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.981601299999999,116.1197621"
+        }
+      },
+      {
+        "name": "Stanton Hotel, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "No.13, Lorong Karamunsing C, Jalan, Karamunsing, 88100 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.9666623,116.0724878"
+        }
+      },
+      {
+        "name": "Dapur Belia 4.0, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "88450 Kota Kinabalu, Sabah, Malaysia",
+          "url": "https://www.google.com/maps/dir//5.941615199999999,116.0565318"
+        }
+      },
+      {
+        "name": "Segar Borneo Sdn Bhd, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "Lrg Minyak, 88400 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.9963087,116.1226012"
+        }
+      },
+      {
+        "name": "Quality Frozen Mart, Sandakan, Sabah",
+        "details": {
+          "address": "Ground Floor, Lot 6, Block B, Bandar Melrose , Mile 3.5, North Road, 90000, 90000 Sandakan, Sabah",
+          "url": "https://www.google.com/maps/dir//5.8593071,118.0870432"
+        }
+      },
+      {
+        "name": "Stesen PETRONAS Kimanis, Sabah",
+        "details": {
+          "address": "JVPW+HJ, Jalan Keningau Kimanis, Pekan Lama Kimanis, 89607 Papar, Sabah",
+          "url": "https://www.google.com/maps/dir//5.636610399999999,115.8965091"
+        }
+      },
+      {
+        "name": "Petronas Papar, Sabah",
+        "details": {
+          "address": "Petronas, Bandar Papar, 89600 Papar, Sabah",
+          "url": "https://www.google.com/maps/dir//5.7338468,115.9285523"
+        }
+      },
+      {
+        "name": "PETRONAS - Jalan Utara, Tawau, Sabah",
+        "details": {
+          "address": "Jalan Tawau - Kalabakan, 91000 Tawau, Sabah",
+          "url": "https://www.google.com/maps/dir//4.278481,117.8808511"
+        }
+      },
+      {
+        "name": "Ninso Kolombong, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "18, Lor Sri Kolombong, 88450 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.9854144,116.1223246"
+        }
+      },
+      {
+        "name": "Ninso Papar, Sabah",
+        "details": {
+          "address": "Jln Pengalat Lok Kawi, 89600 Papar, Sabah",
+          "url": "https://www.google.com/maps/dir//5.737123599999999,115.939061"
+        }
+      },
+      {
+        "name": "Ninso Centre Point, Kota Kinabalu, Sabah",
+        "details": {
+          "address": "Centre Point Sabah, 1, Jln Centre Point, 88000 Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.9781469,116.0718643"
+        }
+      },
+      {
+        "name": "Ninso Sandakan, Sabah",
+        "details": {
+          "address": "Lot.28,29,30,31 & 32, Taman Nasalim Ph7A, 3 Storey Commercial Shop/Office Intermediate, Jln Lintas Utara, 90000 Sandakan, Sabah",
+          "url": "https://www.google.com/maps/dir//5.869716899999999,118.0674709"
+        }
+      },
+      {
+        "name": "Ninso Beaufort, Sabah",
+        "details": {
+          "address": "Lot.I061-0,I062-0,I064-0,I065-0&I1066-0 Grd Floor, Block I, Beaufort Square Avenue 2, Beaufort Jaya, 89800 Beaufort, Sabah",
+          "url": "https://www.google.com/maps/dir//5.3422141,115.7408123"
+        }
+      },
+      {
+        "name": "Ninso Keningau, Sabah",
+        "details": {
+          "address": "Lot 1 to 8, Ground Floor, Block A1 Bandar Baru Keningau, Phase 1, KM5 1, 2, Kampung Dangulad, 89000 Keningau, Sabah",
+          "url": "https://www.google.com/maps/dir//5.3582,116.1748428"
+        }
+      },
+      {
+        "name": "PPR Taman Mesra, Sandakan, Sabah",
+        "details": {
+          "address": "Blok 44, Batu 4, Lor Dua, 90000 Sandakan, Sabah",
+          "url": "https://www.google.com/maps/dir//5.8601193,118.0766438"
+        }
+      },
+      {
+        "name": "KLINIK MABELLO JEROCO, Lahad Datu, Sabah",
+        "details": {
+          "address": "Lot 4, Wisma Teo, Batu 13, Simpang Jeroco, Jln Sandakan-Lahad Datu, 91115 Lahad Datu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.1382956,118.215805"
+        }
+      }
+    ],
+    "Miri": [
+      {
+        "name": "Area Miri",
+        "details": {
+          "address": "Miri, Sarawak",
+          "url": "https://www.google.com/maps/dir//4.399493,113.9913832"
+        }
+      }
+    ],
+    "Kuching": [
+      {
+        "name": "Area Kuching",
+        "details": {
+          "address": "Kuching, Sarawak",
+          "url": "https://www.google.com/maps/dir//1.553504,110.3592927"
+        }
+      }
+    ],
+    "Samarahan": [
+      {
+        "name": "Area Kota Samarahan",
+        "details": {
+          "address": "Kota Samarahan, Sarawak",
+          "url": "https://www.google.com/maps/dir//1.459921,110.488266"
+        }
+      }
+    ],
+    "Labuan": [
+      {
+        "name": "Area Labuan",
+        "details": {
+          "address": "87000 Labuan, Labuan Federal Territory",
+          "url": "https://www.google.com/maps/dir//5.2831456,115.230825"
+        }
+      }
+    ],
+    "Sandakan": [
+      {
+        "name": "Area Sandakan",
+        "details": {
+          "address": "Sandakan, Sabah",
+          "url": "https://www.google.com/maps/dir//5.839443999999999,118.1171729"
+        }
+      }
+    ],
+    "Semporna": [
+      {
+        "name": "Area Semporna",
+        "details": {
+          "address": "Semporna, Sabah",
+          "url": "https://www.google.com/maps/dir//4.479391,118.611545"
+        }
+      }
+    ],
+    "Kinabalu": [
+      {
+        "name": "Area Kota Kinabalu",
+        "details": {
+          "address": "Kota Kinabalu, Sabah",
+          "url": "https://www.google.com/maps/dir//5.980408,116.0734568"
+        }
+      }
+    ],
+    "Bintulu": [
+      {
+        "name": "Area Bintulu",
+        "details": {
+          "address": "Bintulu, Sarawak",
+          "url": "https://www.google.com/maps/dir//3.171322,113.0419069"
+        }
+      }
+    ],
+    "Kudat": [
+      {
+        "name": "Area Kudat",
+        "details": {
+          "address": "89050 Kudat, Sabah",
+          "url": "https://www.google.com/maps/dir//6.883057099999999,116.8466165"
+        }
+      }
+    ],
+    "Kunak": [
+      {
+        "name": "Area Kunak",
+        "details": {
+          "address": "Kunak, Sabah",
+          "url": "https://www.google.com/maps/dir//4.686116,118.2511462"
+        }
+      }
+    ],
+    "Sarawak": [
+      {
+        "name": "Supercube Foodbank, Kuching, Sarawak",
+        "details": {
+          "address": "Jalan Depo, Kampung Semerah Padi, 93050 Kuching, Sarawak",
+          "url": "https://www.google.com/maps/dir//1.5797725,110.3220617"
+        }
+      },
+      {
+        "name": "Foodbank by Ninetys Image, Kuching, Sarawak",
+        "details": {
+          "address": "PUSAT KOMERSIL SWAN NO 56 Lot 14495 BATU 4, Jalan Matang, Taman Matang Jaya, 93050 Kuching, Sarawak",
+          "url": "https://www.google.com/maps/dir//1.5742212,110.3037278"
+        }
+      },
+      {
+        "name": "Gerobok Rezeki Surau Darus Salam Taman Bumiko, Miri, Sarawak",
+        "details": {
+          "address": "Jln Bunga Raya 5A, Taman Bumiko, 98000 Miri, Sarawak",
+          "url": "https://www.google.com/maps/dir//4.371535100000001,113.9768028"
+        }
+      },
+      {
+        "name": "Chop kiat siang petrol station, Miri, Sarawak",
+        "details": {
+          "address": "By Pass, Lot 709, Jalan Bintulu - Miri, AH150, 98000 Miri, Sarawak",
+          "url": "https://www.google.com/maps/dir//4.386483399999999,113.986737"
+        }
+      },
+      {
+        "name": "Chop Kiat Siang Shell Filling Station, Miri, Sarawak",
+        "details": {
+          "address": "Jalan Permaisuri, 98000 Miri, Sarawak",
+          "url": "https://www.google.com/maps/dir//4.404985,113.9917828"
+        }
+      },
+      {
+        "name": "Teo's Clinic, Miri, Sarawak",
+        "details": {
+          "address": "1st Floor, Miri Waterfront, No. 1158, Jalan Sri Dagang, Miri Waterfront, 98000 Miri, Sarawak",
+          "url": "https://www.google.com/maps/dir//4.3970391,113.9862448"
+        }
+      },
+      {
+        "name": "The Nest Cafe Lounge, Miri, Sarawak",
+        "details": {
+          "address": "No A-G18, Miri Times Square, Marina Parkcity, 98000, 98000 Miri, Sarawak",
+          "url": "https://www.google.com/maps/dir//4.3933596,113.9850714"
+        }
+      },
+      {
+        "name": "PETRONAS Kuching Utara, Kuching, Sarawak",
+        "details": {
+          "address": "Lot 9815, Section 65, KTLD, Jalan Tun Abdul Rahman Yaakub, Petra Jaya, 93050 Kuching, Sarawak",
+          "url": "https://www.google.com/maps/dir//1.5613919,110.322359"
+        }
+      },
+      {
+        "name": "D.J.H Food Court 2.0, Kuching, Sarawak",
+        "details": {
+          "address": "Wisma Nation Horizon, 16, Jalan Petanak, 93100 Kuching, Sarawak",
+          "url": "https://www.google.com/maps/dir//1.5545007,110.3627656"
+        }
+      },
+      {
+        "name": "The Mandarin Express, ICOM Square, Kuching, Sarawak",
+        "details": {
+          "address": "ICOM Square, Jalan Pending, 93450 Kuching, Sarawak",
+          "url": "https://www.google.com/maps/dir//1.5509472,110.3723222"
+        }
+      },
+      {
+        "name": "Farm Direct Shop, Kuching, Sarawak",
+        "details": {
+          "address": "1st floor, sublot 7, Stutong Avenue, Jalan Setia Raja, 93350 Kuching, Sarawak",
+          "url": "https://www.google.com/maps/dir//1.5081221,110.3735655"
+        }
+      },
+      {
+        "name": "Hui Sing Hawker Centre, Kuching, Sarawak",
+        "details": {
+          "address": "178,, 171, Jalan Sherip Masahor, Taman Hui Sing, 93350 Kuching, Sarawak",
+          "url": "https://www.google.com/maps/dir//1.5135338,110.3443803"
+        }
+      }
+    ],
+    "Tawau": [
+      {
+        "name": "Area Tawau",
+        "details": {
+          "address": "Tawau, Sabah",
+          "url": "https://www.google.com/maps/dir//4.244651,117.8911861"
+        }
+      }
+    ]
+  }
+  
