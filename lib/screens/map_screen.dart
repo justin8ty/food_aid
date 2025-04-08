@@ -23,6 +23,7 @@ class _MapScreenState extends ConsumerState<MapScreen> {
   Marker? _userMarker;
 
   Set<Polygon> _statePolygons = {};
+  bool _showSearch = false;
 
   @override
   void initState() {
@@ -111,7 +112,6 @@ class _MapScreenState extends ConsumerState<MapScreen> {
       body: SafeArea(
         child: Column(
           children: [
-            // Map
             Expanded(
               flex: 2,
               child: Stack(
@@ -119,7 +119,7 @@ class _MapScreenState extends ConsumerState<MapScreen> {
                   GoogleMap(
                     onMapCreated: _onMapCreated,
                     initialCameraPosition: const CameraPosition(
-                      target: LatLng(3.1390, 101.6869), // KL fallback
+                      target: LatLng(3.1390, 101.6869),
                       zoom: defaultZoom,
                     ),
                     myLocationEnabled: true,
@@ -135,6 +135,7 @@ class _MapScreenState extends ConsumerState<MapScreen> {
                       elevation: 6,
                       borderRadius: BorderRadius.circular(12),
                       child: Container(
+                        height: 56,
                         padding: const EdgeInsets.symmetric(horizontal: 12),
                         decoration: BoxDecoration(
                           color: Colors.white,
@@ -142,27 +143,69 @@ class _MapScreenState extends ConsumerState<MapScreen> {
                         ),
                         child: Row(
                           children: [
-                            const Icon(Icons.search, color: Colors.black87),
-                            const SizedBox(width: 8),
                             Expanded(
-                              child: TextField(
-                                controller: _searchController,
-                                decoration: const InputDecoration(
-                                  hintText: "Search by name or address",
-                                  hintStyle: TextStyle(color: Colors.black54),
-                                  border: InputBorder.none,
+                              child: AnimatedCrossFade(
+                                duration: const Duration(milliseconds: 300),
+                                crossFadeState:
+                                    _showSearch
+                                        ? CrossFadeState.showSecond
+                                        : CrossFadeState.showFirst,
+                                firstChild: Align(
+                                  alignment: Alignment.centerLeft,
+                                  child: Text(
+                                    'FoodBank Detective',
+                                    style: const TextStyle(
+                                      fontSize: 18,
+                                      fontWeight: FontWeight.w600,
+                                      color: Colors.deepPurple,
+                                    ),
+                                  ),
                                 ),
-                                style: const TextStyle(color: Colors.black87),
-                                onSubmitted: _searchAndMove,
+                                secondChild: Align(
+                                  alignment: Alignment.centerLeft,
+                                  child: TextField(
+                                    controller: _searchController,
+                                    autofocus: true,
+                                    style: const TextStyle(
+                                      fontSize: 16,
+                                      color: Colors.black87,
+                                    ),
+                                    decoration: const InputDecoration(
+                                      hintText: 'Search food banks...',
+                                      border: InputBorder.none,
+                                      isDense: true,
+                                      contentPadding: EdgeInsets.symmetric(
+                                        vertical: 12,
+                                      ),
+                                    ),
+                                    onSubmitted: _searchAndMove,
+                                  ),
+                                ),
                               ),
                             ),
+                            if (_showSearch)
+                              IconButton(
+                                icon: const Icon(
+                                  Icons.arrow_forward,
+                                  color: Colors.deepPurple,
+                                ),
+                                onPressed:
+                                    () =>
+                                        _searchAndMove(_searchController.text),
+                              ),
                             IconButton(
-                              icon: const Icon(
-                                Icons.arrow_forward,
+                              icon: Icon(
+                                _showSearch ? Icons.close : Icons.search,
                                 color: Colors.deepPurple,
                               ),
-                              onPressed:
-                                  () => _searchAndMove(_searchController.text),
+                              onPressed: () {
+                                setState(() {
+                                  _showSearch = !_showSearch;
+                                  if (!_showSearch) {
+                                    _searchController.clear();
+                                  }
+                                });
+                              },
                             ),
                           ],
                         ),
@@ -172,8 +215,6 @@ class _MapScreenState extends ConsumerState<MapScreen> {
                 ],
               ),
             ),
-
-            // List
             Expanded(
               flex: 1,
               child:
