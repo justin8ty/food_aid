@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import '../services/places_service.dart';
 import '../providers/restaurant_provider.dart';
 
 class MapScreen extends ConsumerStatefulWidget {
@@ -21,19 +20,19 @@ class _MapScreenState extends ConsumerState<MapScreen> {
   }
 
   Future<void> _searchAndMove(String query) async {
-    final location = await ref
-        .read(placesServiceProvider)
-        .searchLocation(query);
-    if (location != null) {
-      final target = LatLng(location.latitude, location.longitude);
+    if (query.isEmpty) return;
+    
+    await ref.read(restaurantProvider.notifier).loadFoodBanks(query);
+    
+    final markers = ref.read(restaurantProvider);
+    if (markers.isNotEmpty) {
       _mapController.animateCamera(
-        CameraUpdate.newLatLngZoom(target, defaultZoom),
+        CameraUpdate.newLatLngZoom(markers.first.position, defaultZoom),
       );
-      await ref.read(restaurantProvider.notifier).loadRestaurants(target);
     } else {
-      ScaffoldMessenger.of(
-        context,
-      ).showSnackBar(SnackBar(content: Text('Location not found: $query')));
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('No food banks found for "$query"')),
+      );
     }
   }
 
@@ -69,7 +68,7 @@ class _MapScreenState extends ConsumerState<MapScreen> {
                     child: TextField(
                       controller: _searchController,
                       decoration: const InputDecoration(
-                        hintText: "Search city or ZIP",
+                        hintText: "Search food bank by name or address",
                         contentPadding: EdgeInsets.symmetric(horizontal: 12),
                         border: InputBorder.none,
                       ),
