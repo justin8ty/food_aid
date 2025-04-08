@@ -198,7 +198,7 @@ class _MapScreenState extends ConsumerState<MapScreen> {
                   firstChild: Align(
                     alignment: Alignment.centerLeft,
                     child: Text(
-                      'FoodBank Finder',
+                      'FoodBank Detective',
                       style: const TextStyle(
                         fontSize: 18,
                         fontWeight: FontWeight.w600,
