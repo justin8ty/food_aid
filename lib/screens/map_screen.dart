@@ -4,6 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:geolocator/geolocator.dart';
 import '../providers/restaurant_provider.dart';
+import '../services/geojson_service.dart';
 import '../models/food_bank.dart';
 
 class MapScreen extends ConsumerStatefulWidget {
@@ -21,10 +22,21 @@ class _MapScreenState extends ConsumerState<MapScreen> {
   LatLng? _userLocation;
   Marker? _userMarker;
 
+  Set<Polygon> _statePolygons = {};
+
   @override
   void initState() {
     super.initState();
     _getCurrentLocation();
+    _loadStatePolygons();
+  }
+
+  Future<void> _loadStatePolygons() async {
+    final service = ref.read(geoJsonServiceProvider);
+    final polygons = await service.getStatePolygons();
+    setState(() {
+      _statePolygons = Set<Polygon>.from(polygons);
+    });
   }
 
   Future<void> _getCurrentLocation() async {
@@ -113,6 +125,7 @@ class _MapScreenState extends ConsumerState<MapScreen> {
                     myLocationEnabled: true,
                     myLocationButtonEnabled: true,
                     markers: markers,
+                    polygons: _statePolygons,
                   ),
                   Positioned(
                     top: 20,
