@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 import 'screens/map_screen.dart';
 import 'widgets/receiver_form.dart';
 
-void main() {
+/*void main() {
   runApp(const RestaurantRadarApp());
-}
+}*/
 
 class RestaurantRadarApp extends StatelessWidget {
   const RestaurantRadarApp({super.key});
