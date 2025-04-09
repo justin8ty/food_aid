@@ -1,8 +1,62 @@
-# food_aid
+# FoodBank Detective
 
-A new Flutter project.
+A Flutter web app that helps users locate nearby food banks and restaurants and coordinates distribution of food aid from NGOs to people in need.
 
-## Getting Started
+## Prerequisites
+
+Ensure Flutter SDK, a browser, and Android Studio toolchain are properly installed. For guidance:
+
+https://docs.flutter.dev/get-started/install/windows/web
+
+Check that all dependencies are installed:
+
+```
+flutter run
+```
+
+## Setup
+
+```
+git clone https://github.com/justin8ty/food_aid.git
+cd food_aid
+flutter run
+```
+
+## Features
+
+**Interactive Map**: View food banks and your current location on a map
+
+**State Urgency Visualization**: Color-coded state polygons show food insecurity levels
+
+**Role Selection**: Choose between Provider/NGO or Receiver roles
+
+**Receiver Form**: A form for people in need to register their details
+
+**Responsive Design**: Works on both mobile and desktop screens
+
+**Search Functionality**: Find food banks by name or location
+
+**Location Services**: Automatic detection of user's current location
+
+## Technical Stack
+
+We use a suite of third-party libraries to develop.
+
+Flutter: Cross-platform mobile framework
+
+Google Maps API: For map display and location services
+
+Riverpod: State management solution
+
+Geolocator: For device location services
+
+Material Design: UI components and theming
+
+Vertex AI: For Gemini Chatbot and Regression Model
+
+Firebase: For storage and authentication
+
+## Reference
 
 This project is a starting point for a Flutter application.
 
