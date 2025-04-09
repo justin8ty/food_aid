@@ -11,7 +11,7 @@ https://docs.flutter.dev/get-started/install/windows/web
 Check that all dependencies are installed:
 
 ```
-flutter run
+flutter doctor
 ```
 
 ## Setup
