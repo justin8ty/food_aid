@@ -1,0 +1,82 @@
+[
+    {
+        "state": "Kelantan",
+        "need_metric_score": 0.3494952234271216,
+        "urgency": "high"
+    },
+    {
+        "state": "Sabah",
+        "need_metric_score": 0.3472089300081147,
+        "urgency": "high"
+    },
+    {
+        "state": "W.P. Labuan",
+        "need_metric_score": 0.3466869235276645,
+        "urgency": "high"
+    },
+    {
+        "state": "Perlis",
+        "need_metric_score": 0.337943921054354,
+        "urgency": "high"
+    },
+    {
+        "state": "Kedah",
+        "need_metric_score": 0.3248865969011272,
+        "urgency": "moderate"
+    },
+    {
+        "state": "Perak",
+        "need_metric_score": 0.32344862342219505,
+        "urgency": "moderate"
+    },
+    {
+        "state": "Sarawak",
+        "need_metric_score": 0.31464217987954357,
+        "urgency": "moderate"
+    },
+    {
+        "state": "Pahang",
+        "need_metric_score": 0.31397462569762874,
+        "urgency": "moderate"
+    },
+    {
+        "state": "Terengganu",
+        "need_metric_score": 0.29257016810971126,
+        "urgency": "low"
+    },
+    {
+        "state": "Negeri Sembilan",
+        "need_metric_score": 0.2880222890219011,
+        "urgency": "low"
+    },
+    {
+        "state": "Johor",
+        "need_metric_score": 0.28557376903628556,
+        "urgency": "low"
+    },
+    {
+        "state": "Melaka",
+        "need_metric_score": 0.2648761341892116,
+        "urgency": "low"
+    },
+    {
+        "state": "Selangor",
+        "need_metric_score": 0.257399352366445,
+        "urgency": "low"
+    },
+    {
+        "state": "Pulau Pinang",
+        "need_metric_score": 0.25519150962948495,
+        "urgency": "low"
+    },
+    {
+        "state": "W.P. Kuala Lumpur",
+        "need_metric_score": 0.17037731169016074,
+        "urgency": "low"
+    },
+    {
+        "state": "W.P. Putrajaya",
+        "need_metric_score": 0.14061067819614256,
+        "urgency": "low"
+    }
+]
