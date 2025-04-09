@@ -66,6 +66,7 @@ flutter:
   assets:
      - assets/food_banks1.json
      - assets/my.json
+     - assets/map_screen.json
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

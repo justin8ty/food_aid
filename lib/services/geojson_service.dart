@@ -40,11 +40,12 @@ class GeoJsonService {
       polygons.add(Polygon(
         polygonId: PolygonId(stateId),
         points: points,
-        strokeWidth: 2,
-        strokeColor: stateId == 'MY03' ? Colors.red : Colors.green,
-        fillColor: stateId == 'MY03' 
-            ? Colors.red.withOpacity(0.3) 
-            : Colors.green.withOpacity(0.3),
+        strokeWidth: 0,
+        fillColor: ['Kelantan', 'Sabah', 'Perlis'].contains(stateName)
+            ? Colors.red.withOpacity(0.3)
+            : ['Kedah', 'Perak', 'Sarawak', 'Pahang'].contains(stateName)
+                ? Colors.yellow.withOpacity(0.4)
+                : Colors.green.withOpacity(0.3), // fallback color if none match
       ));
     }
     
