@@ -24405,7 +24405,7 @@
         "properties": {
           "source": "https://simplemaps.com", 
           "id": "MY15", 
-          "name": "Labuan"
+          "name": "W.P. Labuan"
         }, 
         "id": 14
       }, 
@@ -24765,7 +24765,7 @@
         "properties": {
           "source": "https://simplemaps.com", 
           "id": "MY14", 
-          "name": "Kuala Lumpur"
+          "name": "W.P. Kuala Lumpur"
         }, 
         "id": 15
       }, 
@@ -24905,7 +24905,7 @@
         "properties": {
           "source": "https://simplemaps.com", 
           "id": "MY16", 
-          "name": "Putrajaya"
+          "name": "W.P. Putrajaya"
         }, 
         "id": 16
       }
