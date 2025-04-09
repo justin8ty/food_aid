@@ -13,7 +13,7 @@ class RestaurantRadarApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Restaurant Radar',
+      title: 'FoodBank Detective',
       theme: ThemeData.dark(),
       home: const HomeScreen(),
     );
@@ -99,7 +99,6 @@ class _HomeScreenState extends State<HomeScreen> {
         children: [
           // MapScreen content
           const MapScreen(), // Reuse the existing MapScreen here
-
           // If the popup is visible, darken the background
           if (_isPopupVisible)
             Container(
