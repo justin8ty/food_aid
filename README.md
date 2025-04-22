@@ -2,6 +2,8 @@
 
 A Flutter app that helps users locate nearby food banks and restaurants and coordinates distribution of food aid from NGOs to people in need.
 
+Pitch Deck: https://docs.google.com/presentation/d/1XCk2an3upsrOzmQ5VojR8E7KIs4RCD74elTG-Fv7KEI/edit
+
 ## Prerequisites
 
 Ensure Flutter SDK, a browser, and Android Studio toolchain are properly installed. For guidance:
