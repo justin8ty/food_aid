@@ -1,6 +1,6 @@
 # FoodBank Detective
 
-A Flutter app that helps users locate nearby food banks and restaurants and coordinates distribution of food aid from NGOs to people in need.
+This is FoodBank Detective, a food aid coordination app leveraging RAG chatbot and linear regression AI model to determine areas with major food insecurity. 
 
 Pitch Deck: https://docs.google.com/presentation/d/1XCk2an3upsrOzmQ5VojR8E7KIs4RCD74elTG-Fv7KEI/edit
 
